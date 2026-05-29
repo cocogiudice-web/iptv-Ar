@@ -1,104 +1,13 @@
-#EXTM3U x-tvg-url="https://raw.githubusercontent.com/iptv-org/epg/master/epg.xml"
+#EXTM3U
 
-# =================================
-# TV ABIERTA ARGENTINA
-# =================================
+#EXTINF:-1 tvg-id="Telefe.ar" tvg-name="Telefe" group-title="Argentina",Telefe
+http://181.13.252.102:8000/play/a06c/index.m3u8
 
-#EXTINF:-1 group-title="TV Abierta",Telefe
-http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/telefe.playlist.m3u8
+#EXTINF:-1 tvg-id="AmericaTV.ar" tvg-name="America TV" group-title="Argentina",America TV
+https://mdstrm.com/live-stream-playlist/5c103bace3c1c083640fcad5.m3u8
 
-#EXTINF:-1 group-title="TV Abierta",El Trece
-https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
+#EXTINF:-1 tvg-id="TN.ar" tvg-name="TN" group-title="Noticias",TN
+https://tn-lh.akamaihd.net/i/TN_1@346246/master.m3u8
 
-#EXTINF:-1 group-title="TV Abierta",TV Pública
-https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
-
-#EXTINF:-1 group-title="TV Abierta",América TV
-https://test-streams.mux.dev/test_001/stream.m3u8
-
-#EXTINF:-1 group-title="TV Abierta",Canal 9
-https://test-streams.mux.dev/dai-discontinuity-deltatre/manifest.m3u8
-
-
-# =================================
-# NOTICIAS
-# =================================
-
-#EXTINF:-1 group-title="Noticias",TN Noticias
-#EXTVLCOPT:http-referrer=https://tn.com.ar/envivo/24hs
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live-01-01-tn.vodgc.net/TN24/index_TN24_1080.m3u8
-
-#EXTINF:-1 group-title="Noticias",C5N
-https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
-
-#EXTINF:-1 group-title="Noticias",A24
-https://test-streams.mux.dev/test_001/stream.m3u8
-
-#EXTINF:-1 group-title="Noticias",Crónica TV
-https://test-streams.mux.dev/dai-discontinuity-deltatre/manifest.m3u8
-
-#EXTINF:-1 group-title="Noticias",Canal 26
-https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
-
-#EXTINF:-1 group-title="Noticias",LN+
-https://test-streams.mux.dev/test_001/stream.m3u8
-
-
-# =================================
-# DEPORTES
-# =================================
-
-#EXTINF:-1 group-title="Deportes",Fox Sports Argentina
-http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-91.playlist.m3u8
-
-#EXTINF:-1 group-title="Deportes",TyC Sports
-http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-90.playlist.m3u8
-
-#EXTINF:-1 group-title="Deportes",DeporTV
-https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
-
-#EXTINF:-1 group-title="Deportes",ESPN
-https://test-streams.mux.dev/test_001/stream.m3u8
-
-
-# =================================
-# MUSICA
-# =================================
-
-#EXTINF:-1 group-title="Música",Quiero Música
-https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
-
-#EXTINF:-1 group-title="Música",CM El Canal de la Música
-https://test-streams.mux.dev/test_001/stream.m3u8
-
-#EXTINF:-1 group-title="Música",MTV Latino
-https://test-streams.mux.dev/dai-discontinuity-deltatre/manifest.m3u8
-
-
-# =================================
-# PELICULAS Y SERIES
-# =================================
-
-#EXTINF:-1 group-title="Películas",Cinecanal
-https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
-
-#EXTINF:-1 group-title="Películas",Space
-https://test-streams.mux.dev/test_001/stream.m3u8
-
-#EXTINF:-1 group-title="Películas",Warner Channel
-https://test-streams.mux.dev/dai-discontinuity-deltatre/manifest.m3u8
-
-#EXTINF:-1 group-title="Películas",AXN
-https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
-
-
-# =================================
-# ENTRETENIMIENTO
-# =================================
-
-#EXTINF:-1 group-title="Entretenimiento",Net TV
-https://test-streams.mux.dev/test_001/stream.m3u8
-
-#EXTINF:-1 group-title="Entretenimiento",Bravo TV
-https://test-streams.mux.dev/dai-discontinuity-deltatre/manifest.m3u8
+#EXTINF:-1 tvg-id="A24.ar" tvg-name="A24" group-title="Noticias",A24
+https://dai.google.com/linear/hls/event/N5WjG6wKQ6yP4Y3xQ2kK8A/master.m3u8
