@@ -3,29 +3,24 @@
 #EXTINF:-1 tvg-name="Fenix Multiplataforma" group-title="La Rioja",Fenix Multiplataforma
 https://stmvideo3.livecastv.com/fenixrioja/fenixrioja/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Canal Rural" group-title="Argentina Agro",Canal Rural
+#EXTINF:-2 tvg-name="Canal Rural" group-title="Argentina Agro",Canal Rural
 https://live.zootec.net/canalrural/index.m3u8
 
-#EXTINF:-1 tvg-name="El Trece" group-title="Argentina",El Trece
+#EXTINF:-3 tvg-name="El Trece" group-title="Argentina",El Trece
 http://45.5.151.147:8000/play/a00f/index.m3u8
 
-# A24
-#EXTINF:-1 tvg-name="A24" group-title="Noticias Argentina",A24
+#EXTINF:-4 tvg-name="A24" group-title="Noticias Argentina",A24
 https://g2.mc-hor.transport.edge-access.net/a12/ngrp:a24-100056_all/a24-100056_720p.m3u8
 
-# Canal 26
-#EXTINF:-1 tvg-name="Canal 26" group-title="Noticias Argentina",Canal 26
+#EXTINF:-5 tvg-name="Canal 26" group-title="Noticias Argentina",Canal 26
 https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
 
-# TN (Todo Noticias)
-#EXTINF:-1 tvg-name="TN" group-title="Noticias Argentina",TN
+#EXTINF:-6 tvg-name="TN" group-title="Noticias Argentina",TN
 https://live-01-01-tn.vodgc.net/TN24/index_TN24_1080.m3u8
 
-# Crónica TV
-#EXTINF:-1 tvg-name="Crónica TV" group-title="Noticias Argentina",Crónica TV
+#EXTINF:-7 tvg-name="Crónica TV" group-title="Noticias Argentina",Crónica TV
 https://g2.vxral-hor.transport.edge-access.net/b10/ngrp:cronicatv_video1-100044_all/cronicatv_video1-100044_720p/index.m3u8
 
-# IP Noticias
-#EXTINF:-1 tvg-name="IP Noticias" group-title="Noticias Argentina",IP Noticias
+#EXTINF:-8 tvg-name="IP Noticias" group-title="Noticias Argentina",IP Noticias
 https://octubre-live.cdn.vustreams.com/live/ip/live.isml/5ee6e167-1167-4a85-9d8d-e08a3f55cff3.m3u8
 
