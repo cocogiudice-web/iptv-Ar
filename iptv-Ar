@@ -1,31 +1,4 @@
 #EXTM3U
-
-# ===== ARGENTINA =====
-
-#EXTINF:-1 tvg-name="TV Pública" group-title="Argentina",TV Pública
-https://www.cont.ar/envivo/TVP
-
-#EXTINF:-1 tvg-name="Canal Encuentro" group-title="Argentina",Canal Encuentro
-https://www.cont.ar/envivo/encuentro
-
-#EXTINF:-1 tvg-name="Pakapaka" group-title="Argentina",Pakapaka
-https://www.cont.ar/envivo/pakapaka
-
-#EXTINF:-1 tvg-name="DeporTV" group-title="Argentina Deportes",DeporTV
-https://www.cont.ar/envivo/deportv
-
-# ===== NOTICIAS EN ESPAÑOL =====
-
-#EXTINF:-1 tvg-name="DW Español" group-title="Noticias",DW Español
-https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8
-
-#EXTINF:-1 tvg-name="France 24 Español" group-title="Noticias",France 24 Español
-https://static.france24.com/live/F24_ES_HI_HLS/live_tv.m3u8
-
-# ===== CULTURA =====
-
-#EXTINF:-1 tvg-name="NASA TV Español" group-title="Educación",NASA TV
-https://ntv1.akamaized.net/hls/live/2016873/NASA-NTV1/master.m3u8
 <h1>Argentina</h1>
 
 <h2>TDA</h2>
