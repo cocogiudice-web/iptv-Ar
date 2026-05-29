@@ -1,13 +1,21 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="TodoNoticias.ar" tvg-name="TN Todo Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Todo_Noticias_2016.png" group-title="Noticias",TN Todo Noticias
+https://www.youtube.com/watch?v=A11x8U2A5xU
 
-#EXTINF:-1 tvg-id="Telefe.ar" tvg-name="Telefe" group-title="Argentina",Telefe
-http://181.13.252.102:8000/play/a06c/index.m3u8
+#EXTINF:-1 tvg-id="A24.ar" tvg-name="A24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/A24_logo_2021.png" group-title="Noticias",A24
+https://www.youtube.com/watch?v=0w5I2l6j0lY
 
-#EXTINF:-1 tvg-id="AmericaTV.ar" tvg-name="America TV" group-title="Argentina",America TV
-https://mdstrm.com/live-stream-playlist/5c103bace3c1c083640fcad5.m3u8
+#EXTINF:-1 tvg-id="C5N.ar" tvg-name="C5N" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/C5N_Logo_2021.png" group-title="Noticias",C5N
+https://www.youtube.com/watch?v=8p_9IeFk57s
 
-#EXTINF:-1 tvg-id="TN.ar" tvg-name="TN" group-title="Noticias",TN
-https://tn-lh.akamaihd.net/i/TN_1@346246/master.m3u8
+#EXTINF:-1 tvg-id="LaNacionPlus.ar" tvg-name="LN+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/52/LN%2B_2021.png" group-title="Noticias",LN+
+https://www.youtube.com/watch?v=vV_X1C260g0
 
-#EXTINF:-1 tvg-id="A24.ar" tvg-name="A24" group-title="Noticias",A24
-https://dai.google.com/linear/hls/event/N5WjG6wKQ6yP4Y3xQ2kK8A/master.m3u8
+#EXTINF:-1 tvg-id="CronicaTV.ar" tvg-name="Crónica TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/Cr%C3%B3nica_HD_logo_2021.png" group-title="Noticias",Crónica TV
+https://www.youtube.com/watch?v=H74Tz25KqA0
+
+#EXTINF:-1 tvg-id="Canal26.ar" tvg-name="Canal 26" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/Canal_26_logo_2019.png" group-title="Noticias",Canal 26
+https://www.youtube.com/watch?v=uDkZg-7pIas
+
+#EXTINF:-1 tvg-id="TVPublica.ar" tvg-name="Televisión Pública" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b3/Televisi%C3%B3n_P%C3%BAblica_Argentina_-_Logo_2021.png" group-title="General",Televisión Pública
+https://www.youtube.com/watch?v=HzWk6M5Bv1k
