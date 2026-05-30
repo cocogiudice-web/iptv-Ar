@@ -21,8 +21,7 @@ https://octubre-live.cdn.vustreams.com/live/ip/live.isml/5ee6e167-1167-4a85-9d8d
 #EXTINF:-7 tvg-name="América TV" group-title="Argentina",América TV
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
 
-
 #EXTINF:-8 tvg-name="C5N" group-title="Noticias Argentina",C5N
-http://181.13.252.102:8000/play/a01p/index.m3u8?hls
+http://181.13.252.102:8000/play/a01p/index.m3u8
 
 
