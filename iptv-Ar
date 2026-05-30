@@ -28,4 +28,7 @@ http://200.24.204.242:6020/play/a09l/index.m3u8
 #EXTINF:-9 tvg-name="AXN Latino" group-title="Películas y Series",AXN Latino
 https://cvi.cdn.rcs.net.ar/mnp/axn_hls/playlist.m3u8
 
+#EXTINF:-10 tvg-name="A&E Latino" group-title="Series y Documentales",A&E Latino
+https://cdn-2.nxplay.com.br/AeE_BRASIL_TK/index.m3u8
+
 
