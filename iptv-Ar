@@ -59,6 +59,5 @@ https://cdn.cvattv.com.ar/live/c3eds/Encuentro/HLS/Encuentro.m3u8
 #EXTINF:-19 tvg-name="Pakapaka" group-title="Infantil Argentina",Pakapaka
 https://cdn.cvattv.com.ar/live/c3eds/Pakapaka/HLS/Pakapaka.m3u8
 
-#EXTINF:-1 tvg-name="TN YouTube Live" group-title="Noticias Argentina",TN YouTube Live
-https://www.youtube.com/@todonoticias/live
+#EXTINF:-1 tvg-name="Todo Noticias" group-title="Noticias Argentina",Todo Noticias
 https://www.youtube.com/c/todonoticias/live
