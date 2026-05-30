@@ -14,3 +14,6 @@ https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
 
 #EXTINF:-7 tvg-name="América TV" group-title="Argentina",América TV
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
+
+#EXTINF:-7 tvg-name="c5n" group-title="Noticias Argentina",C5N
+https://www.c5n.com/vivo?utm_source=chatgpt.com
