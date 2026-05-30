@@ -31,4 +31,8 @@ https://cvi.cdn.rcs.net.ar/mnp/axn_hls/playlist.m3u8
 #EXTINF:-10 tvg-name="A&E Latino" group-title="Series y Documentales",A&E Latino
 https://cdn-2.nxplay.com.br/AeE_BRASIL_TK/index.m3u8
 
+#EXTINF:-11 tvg-name="Fox Sports Argentina" group-title="Deportes",Fox Sports Argentina
+http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-91.playlist.m3u8
+https://futargentinasp-lh.akamaihd.net/i/foxpremiumHD_1@528891/master.m3u8
+
 
