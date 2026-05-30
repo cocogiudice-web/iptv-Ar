@@ -3,9 +3,6 @@
 #EXTINF:-1 tvg-name="Fenix Multiplataforma" group-title="La Rioja",Fenix Multiplataforma
 https://stmvideo3.livecastv.com/fenixrioja/fenixrioja/playlist.m3u8
 
-#EXTINF:-2 tvg-name="Canal Rural" group-title="Argentina Agro",Canal Rural
-https://live.zootec.net/canalrural/index.m3u8
-
 #EXTINF:-3 tvg-name="El Trece" group-title="Argentina",El Trece
 http://45.5.151.147:8000/play/a00f/index.m3u8
 
@@ -15,49 +12,5 @@ https://g2.mc-hor.transport.edge-access.net/a12/ngrp:a24-100056_all/a24-100056_7
 #EXTINF:-5 tvg-name="Canal 26" group-title="Noticias Argentina",Canal 26
 https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
 
-#EXTINF:-6 tvg-name="IP Noticias" group-title="Noticias Argentina",IP Noticias
-https://octubre-live.cdn.vustreams.com/live/ip/live.isml/5ee6e167-1167-4a85-9d8d-e08a3f55cff3.m3u8
-
 #EXTINF:-7 tvg-name="América TV" group-title="Argentina",América TV
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
-
-#EXTINF:-8 tvg-name="C5N" group-title="Noticias Argentina",C5N
-http://181.13.252.102:8000/play/a01p/index.m3u8?hls
-http://200.24.204.242:6020/play/a09l/index.m3u8
-
-#EXTINF:-9 tvg-name="AXN Latino" group-title="Películas y Series",AXN Latino
-https://cvi.cdn.rcs.net.ar/mnp/axn_hls/playlist.m3u8
-
-#EXTINF:-10 tvg-name="A&E Latino" group-title="Series y Documentales",A&E Latino
-https://cdn-2.nxplay.com.br/AeE_BRASIL_TK/index.m3u8
-
-#EXTINF:-11 tvg-name="Fox Sports Argentina" group-title="Deportes",Fox Sports Argentina
-http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-91.playlist.m3u8
-https://futargentinasp-lh.akamaihd.net/i/foxpremiumHD_1@528891/master.m3u8
-
-#EXTINF:-12 tvg-name="DeporTV" group-title="Deportes Argentina",DeporTV
-https://5f700d5b2c46f.streamlock.net/live/deportv/playlist.m3u8
-
-#EXTINF:-13 tvg-name="Fox Sports Argentina" group-title="Deportes Argentina",Fox Sports Argentina
-http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-91.playlist.m3u8
-
-#EXTINF:-14 tvg-name="TyC Sports" group-title="Deportes Argentina",TyC Sports
-http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-90.playlist.m3u8
-
-#EXTINF:-15 tvg-name="Canal Rural" group-title="Agro y Deportes",Canal Rural
-https://live.zootec.net/canalrural/index.m3u8
-
-#EXTINF:-16 tvg-name="TV Pública" group-title="TV Abierta",TV Pública
-https://5f700d5b2c46f.streamlock.net/live/tvpublica/playlist.m3u8
-
-#EXTINF:-17 tvg-name="DeporTV" group-title="TV Abierta",DeporTV
-https://5f700d5b2c46f.streamlock.net/live/deportv/playlist.m3u8
-
-#EXTINF:-18 tvg-name="Canal Encuentro" group-title="Educación",Canal Encuentro
-https://cdn.cvattv.com.ar/live/c3eds/Encuentro/HLS/Encuentro.m3u8
-
-#EXTINF:-19 tvg-name="Pakapaka" group-title="Infantil Argentina",Pakapaka
-https://cdn.cvattv.com.ar/live/c3eds/Pakapaka/HLS/Pakapaka.m3u8
-
-#EXTINF:-1 tvg-name="Todo Noticias" group-title="Noticias Argentina",Todo Noticias
-https://www.youtube.com/c/todonoticias/live
