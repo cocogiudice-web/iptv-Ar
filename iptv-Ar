@@ -24,4 +24,7 @@ https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
 #EXTINF:-8 tvg-name="C5N" group-title="Noticias Argentina",C5N
 http://181.13.252.102:8000/play/a01p/index.m3u8?hls
 
+#EXTINF:-9 tvg-name="AXN Latino" group-title="Películas y Series",AXN Latino
+https://cvi.cdn.rcs.net.ar/mnp/axn_hls/playlist.m3u8
+
 
