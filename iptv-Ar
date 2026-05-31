@@ -21,7 +21,7 @@ https://www.c5n.com/vivo?utm_source=chatgpt.com
 #EXTM3U
 
 #EXTINF:-1 tvg-name="TN Noticias" group-title="Noticias",TN Noticias
-https://www.youtube.com/c/todonoticias/live
+yt-dlp -g "https://www.youtube.com/c/todonoticias/live"
 
 
 
