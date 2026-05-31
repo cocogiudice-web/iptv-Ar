@@ -15,8 +15,8 @@ https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
 #EXTINF:-0 tvg-name="América TV" group-title="Argentina",América TV
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
 
-#EXTINF:-1 group-title="24/7" tvg-logo="hhttps://gravity.fitness/cdn/shop/articles/DBD_Ep1_-_Dragon_Team__28recap_29.webp?v=1747140746&width=2048",DRAGON BALL Z 
-https://live20.bozztv.com/giatv/giatv-dball/dball/chunks.m3u8
+#EXTINF:-1 group-title="NOTICIAS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/03/Teleformula_2002.png/revision/latest?cb=20250626103033",Teleformula MX
+https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8
 
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/14380b6fcd3d8d72b9a4003e0afd05be.webp",TELEMUNDO ACCION
 https://xumo-drct-ch835-ekq0p.fast.nbcuni.com/live/master.m3u8
@@ -143,9 +143,6 @@ https://amg17560-fcb-amg17560c2-rakuten-es-4889.playouts.now.amagi.tv/playlist/a
 
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5GaQ
 
-#EXTINF:-1 group-title="NOTICIAS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/03/Teleformula_2002.png/revision/latest?cb=20250626103033",Teleformula MX
-https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8
-
 #EXTINF:-1 group-title="24/7" tvg-logo="http://186.0.248.95:20202/images/los-simpson-24hs_285.png",los simpson
 http://186.0.248.95:20202/Live/92a992ec67f43100bd7e9c14622b9190/online-24-7_480.m3u8
 
@@ -154,6 +151,9 @@ https://jmp2.uk/stvp-ES300029LP
 
 #EXTINF:-1 group-title="24/7" tvg-logo="https://motorvision.tv/wp-content/uploads/2023/09/MV_Plus_Logo_1920x1080.png",MOTORVISION
 https://jmp2.uk/stvp-ESBD3200001EG
+
+#EXTINF:-1 group-title="24/7" tvg-logo="hhttps://gravity.fitness/cdn/shop/articles/DBD_Ep1_-_Dragon_Team__28recap_29.webp?v=1747140746&width=2048",DRAGON BALL Z 
+https://live20.bozztv.com/giatv/giatv-dball/dball/chunks.m3u8
 
 
 
