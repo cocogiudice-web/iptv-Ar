@@ -158,6 +158,8 @@ https://jmp2.uk/stvp-ESBD3200001EG
 #EXTINF:-1 group-title="24/7" tvg-logo="hhttps://gravity.fitness/cdn/shop/articles/DBD_Ep1_-_Dragon_Team__28recap_29.webp?v=1747140746&width=2048",DRAGON BALL Z 
 https://live20.bozztv.com/giatv/giatv-dball/dball/chunks.m3u8
 
+#EXTINF:-1 tvg-name="ESPN" group-title="Noticias Argentina",ESPN2
+https://service-pkgespn.akamaized.net/opp/cmaf/espn/fastclipper/2026/0531/evc__20260531_no_event_name_0548d159_3ca9_4f8e_9ff7_c3e07c41a70d_22063/evc__20260531_no_event_name_0548d159_3ca9_4f8e_9ff7_c3e07c41a70d_22063/index-f1-a1.m3u8
 
 
 
