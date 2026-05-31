@@ -3,16 +3,16 @@
 #EXTINF:-1 tvg-name="Fenix Multiplataforma" group-title="La Rioja",Fenix Multiplataforma
 https://stmvideo3.livecastv.com/fenixrioja/fenixrioja/playlist.m3u8
 
-#EXTINF:-3 tvg-name="El Trece" group-title="Argentina",El Trece
+#EXTINF:-1 tvg-name="El Trece" group-title="Argentina",El Trece
 http://45.5.151.147:8000/play/a00f/index.m3u8
 
-#EXTINF:-4 tvg-name="A24" group-title="Noticias Argentina",A24
+#EXTINF:-1 tvg-name="A24" group-title="Noticias Argentina",A24
 https://g2.mc-hor.transport.edge-access.net/a12/ngrp:a24-100056_all/a24-100056_720p.m3u8
 
-#EXTINF:-5 tvg-name="Canal 26" group-title="Noticias Argentina",Canal 26
+#EXTINF:-1 tvg-name="Canal 26" group-title="Noticias Argentina",Canal 26
 https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
 
-#EXTINF:-7 tvg-name="América TV" group-title="Argentina",América TV
+#EXTINF:-0 tvg-name="América TV" group-title="Argentina",América TV
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
 
 #EXTINF:-1 group-title="24/7" tvg-logo="hhttps://gravity.fitness/cdn/shop/articles/DBD_Ep1_-_Dragon_Team__28recap_29.webp?v=1747140746&width=2048",DRAGON BALL Z 
@@ -38,6 +38,30 @@ http://200.229.147.142:8000/play/a027/index.m3u8
  
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://pbs.twimg.com/profile_images/702722678877126656/1EWWFB3-_400x400.jpg", Golden Premiere HD
 http://200.229.147.142:8000/play/a00g/index.m3u8
+
+#EXTINF:-1 group-title="CINEMA" tvg-logo="https://pbs.twimg.com/profile_images/1758199970191060992/2tN90k3a.jpg",D PELICULAS 
+http://200.229.147.142:8000/play/a080/index.m3u8
+
+#EXTINF:-1 group-title="CINEMA" tvg-logo="https://gritaradio.com/wp-content/uploads/2024/09/02caf636d493c514726744a06be779c2.png",SONY HD 
+http://200.229.147.142:8000/play/a022/index.m3u8
+ 
+#EXTINF:-1 group-title="CINEMA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZURCHQTVCSkNqIY2MNKezeHsw__93b4yD1g&s",SPACE HD
+http://200.229.147.142:8000/play/a04p/index.m3u8
+ 
+#EXTINF:-1 group-title="CINEMA" tvg-logo="https://sire-media-star.techops.disn.io/fox_es/custompage-main/680860.1024x576.jpg",STAR CHANNEL
+http://200.229.147.142:8000/play/a03d/index.m3u8
+ 
+#EXTINF:-1 group-title="CINEMA" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwgr_J316Qqh00qfH4p7THzL7u8F2veoFokqfZlv5_Oy2GGknfCNHdkc6CZyeLmlow64LrmL2ZuvGNEd5ZKuHtC9hXSpJVqyokDAPrCchMJg1fm2g7XP4mtlNjPy-rXP1I8sST1dupLM0/s1600/uni4.jpg",Universal
+http://200.229.147.142:8000/play/a01t/index.m3u8
+
+#EXTINF:-1 group-title="CINEMA" tvg-logo="https://play-lh.googleusercontent.com/nE6lSBRRr22kdMdZO60LaOEWSbEoT1bJ-uhHezT1QztI2eLc5lg7IGpB9y6-pE0XBQLL",BIG TV HD
+https://live20.bozztv.com/giatv/giatv-bigtv/bigtv/chunks.m3u8
+ 
+#EXTINF:-1 group-title="CINEMA" tvg-logo="https://creations.panzoid.com/creation-thumbnails/97670.jpg", HBO Family HD
+http://200.229.147.142:8000/play/a06q/index.m3u8
+
+
+
 
 
 
