@@ -116,18 +116,17 @@ http://200.229.147.142:8000/play/a05b/index.m3u8
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://iili.io/J1kV1Bn.png", ITV DEPORTES
 https://thm-it-roku.otteravision.com/thm/it/it.m3u8
 
- 
+#EXTINF:-1 tvg-name="ESPN" group-title="Noticias Argentina",ESPN2
+https://service-pkgespn.akamaized.net/opp/cmaf/espn/fastclipper/2026/0531/evc__20260531_no_event_name_0548d159_3ca9_4f8e_9ff7_c3e07c41a70d_22063/evc__20260531_no_event_name_0548d159_3ca9_4f8e_9ff7_c3e07c41a70d_22063/index-f1-a1.m3u8
+
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://image.winudf.com/v2/image1/Y29tLnlvdXJhcHBsYW5kLnRkdHZfaWNvbl8xNTgxNjQxNzcxXzA4MA/icon.png?w=280&fakeurl=1", TDTV COSTARICA
 https://cloudvideo.servers10.com:8081/8230/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://play-lh.googleusercontent.com/u3dr5j-qEzhCx0ec7sQIcM93NHYyssR5wtYCrcWqujyVTtRloVXKDWclDCAHrqNjVY_v=w240-h480-rw", TDC TV
 https://tdcserver.com:19360/tdconlione-2/tdconlione-2.m3u8?PlaylistM3UCL
 
-
-
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://cdn.mos.cms.futurecdn.net/Tdvb4DPB6XfaMgAdxV4aZB.png", FIFA plus
 https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
-
 
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://play-lh.googleusercontent.com/Zt7pigoU67Zun6NMuXzKLSGdk-UHHfBlk59ck4TfMChUlqvrgJnZ23cbXQhDYd1Vww", ITV Deportes
 https://thm-it-roku.otteravision.com/thm/it/it.m3u8
@@ -155,8 +154,6 @@ https://jmp2.uk/stvp-ESBD3200001EG
 #EXTINF:-1 group-title="24/7" tvg-logo="hhttps://gravity.fitness/cdn/shop/articles/DBD_Ep1_-_Dragon_Team__28recap_29.webp?v=1747140746&width=2048",DRAGON BALL Z 
 https://live20.bozztv.com/giatv/giatv-dball/dball/chunks.m3u8
 
-#EXTINF:-1 tvg-name="ESPN" group-title="Noticias Argentina",ESPN2
-https://service-pkgespn.akamaized.net/opp/cmaf/espn/fastclipper/2026/0531/evc__20260531_no_event_name_0548d159_3ca9_4f8e_9ff7_c3e07c41a70d_22063/evc__20260531_no_event_name_0548d159_3ca9_4f8e_9ff7_c3e07c41a70d_22063/index-f1-a1.m3u8
 
 
 
