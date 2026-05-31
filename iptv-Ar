@@ -54,9 +54,6 @@ http://200.229.147.142:8000/play/a03d/index.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwgr_J316Qqh00qfH4p7THzL7u8F2veoFokqfZlv5_Oy2GGknfCNHdkc6CZyeLmlow64LrmL2ZuvGNEd5ZKuHtC9hXSpJVqyokDAPrCchMJg1fm2g7XP4mtlNjPy-rXP1I8sST1dupLM0/s1600/uni4.jpg",Universal
 http://200.229.147.142:8000/play/a01t/index.m3u8
 
-#EXTINF:-1 group-title="CINEMA" tvg-logo="https://play-lh.googleusercontent.com/nE6lSBRRr22kdMdZO60LaOEWSbEoT1bJ-uhHezT1QztI2eLc5lg7IGpB9y6-pE0XBQLL",BIG TV HD
-https://live20.bozztv.com/giatv/giatv-bigtv/bigtv/chunks.m3u8
- 
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://creations.panzoid.com/creation-thumbnails/97670.jpg", HBO Family HD
 http://200.229.147.142:8000/play/a06q/index.m3u8
 
