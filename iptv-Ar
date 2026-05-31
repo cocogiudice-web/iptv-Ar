@@ -60,6 +60,110 @@ https://live20.bozztv.com/giatv/giatv-bigtv/bigtv/chunks.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://creations.panzoid.com/creation-thumbnails/97670.jpg", HBO Family HD
 http://200.229.147.142:8000/play/a06q/index.m3u8
 
+#EXTINF:-1 group-title="CINEMA" tvg-logo="https://creations.panzoid.com/creation-thumbnails/97670.jpg", HBO HD
+http://200.229.147.142:8000/play/a00q/index.m3u8
+  
+#EXTINF:-1 group-title="CINEMA" tvg-logo="https://creations.panzoid.com/creation-thumbnails/97670.jpg", HBO Plus HD
+http://200.229.147.142:8000/play/a00s/index.m3u8
+
+#EXTINF:-1 group-title="MUNDO" tvg-logo="https://play-lh.googleusercontent.com/zF8urZrMb8DwBf6Y0JZZnk6lpr-0cONuaBm4Apc8LH9UKmx-vhfatrTlnZEn3ewVPyxg", Telemundo 2
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master.m3u8
+
+#EXTINF:-1 group-title="MUNDO" tvg-logo="https://yt3.googleusercontent.com/80D_TSARyjefg2NxCbW76-doKCpwuHNss93OijGPYNWQRasfiwePvsicn2bTgsxBaRI6j59Kzis=s900-c-k-c0x00ffffff-no-rj",  UNLP TV AR
+https://stratus.stream.cespi.unlp.edu.ar/hls/tvunlp.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 group-title="MUNDO" tvg-logo="https://yt3.googleusercontent.com/TOHGshxAMW2Meq-N9EWB3T71en-ziaWoiFYWcjrhxQpOW4Wog3HwrAjDZIeCvj1q9VLPt_YsCA=s900-c-k-c0x00ffffff-no-rj", DW Español  DE
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 group-title="MUNDO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/Russia-today-logo.svg", RT Español  RU
+https://rt-esp.rttv.com/live/rtesp/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 group-title="MUNDO" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/466deabbd42d619f75a9134701c3e39b.webp",RETRO PLUS TV
+https://scl.edge.grupoz.cl/retroplustvuno/live/chunklist_w1872059197.m3u8
+
+#EXTINF:-1 group-title="MUNDO" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/0051dffef6555ae2d69b59e63b301b3b.webp",AMO MI PLANETA
+https://amg01821-lovetvchannels-lovetheplanetsp-tivify-tivify-vycsr.amagi.tv/1080p/index.m3u8
+
+#EXTINF:-1 group-title="MUNDO" tvg-logo="https://ui.cgtn.com/static/ng/resource/images/logo_title.png",CGTN ES HD 
+https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
+ 
+#EXTINF:-1 group-title="MUNDO" tvg-logo="http://186.0.248.95:20202/images/CNNesp_285.png",CNN ESPAÑOL
+http://152.231.29.139:8000/play/a0bb/index.m3u8
+ 
+#EXTINF:-1 group-title="MUNDO" tvg-logo="https://yt3.googleusercontent.com/R9LgskhvwzY6ukALWnH983PEy_fRpDN__rtAzZPKxV3XbXeG7JSXGRz0iwmYjCT6_ZxSKxlIpg=s900-c-k-c0x00ffffff-no-rj",DISCOVERY HYH
+http://152.231.29.139:8000/play/a0ds/index.m3u8
+ 
+#EXTINF:-1 group-title="MUNDO" tvg-logo="https://amcla.s3.amazonaws.com/channel_logo/light/tlusfzwag1_amcnila-2023-04-egrebrand-update-cz-logo-pag-int.webp",EL GURMET
+http://152.231.29.139:8000/play/a0ci/index.m3u8
+
+#EXTINF:-1 group-title="MUNDO" tvg-logo="https://image.roku.com/blog/wp-content/uploads/2023/08/Screenshot-2023-08-04-at-11.04.47-AM.png",ADN 40
+https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://static.vecteezy.com/system/resources/previews/010/994/369/non_2x/la-liga-logo-symbol-design-spain-football-european-countries-football-teams-illustration-free-vector.jpg", Liga
+http://190.92.10.66:4000/play/a001/index.m3u8
+
+
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="http://186.0.248.95:20202/images/RedBull_285.png", RED BULL
+http://186.0.248.95:20202/Live/615a33d58bafb34ca48b8671431b777e/RedBull_540.m3u8
+
+
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://yt3.googleusercontent.com/h88IKJCItR4KafxYzqfMphDkLzXdREH24qDrW-CzFMedCCjBl4D2baR3xWF48tOkNltM6MM9hA=s900-c-k-c0x00ffffff-no-rj", LIGA MX: CLARO SPORTS
+https://dai.google.com/linear/hls/event/yINISWAPQ0CPhPixe-40wQ/master.m3u8
+
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSg8aLL3PfRrnaj0tPg7m12LfnMuUTxw3ewJA&s",BUNDESLIGA
+http://200.229.147.142:8000/play/a05b/index.m3u8
+
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://iili.io/J1kV1Bn.png", ITV DEPORTES
+https://thm-it-roku.otteravision.com/thm/it/it.m3u8
+
+ 
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://image.winudf.com/v2/image1/Y29tLnlvdXJhcHBsYW5kLnRkdHZfaWNvbl8xNTgxNjQxNzcxXzA4MA/icon.png?w=280&fakeurl=1", TDTV COSTARICA
+https://cloudvideo.servers10.com:8081/8230/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://play-lh.googleusercontent.com/u3dr5j-qEzhCx0ec7sQIcM93NHYyssR5wtYCrcWqujyVTtRloVXKDWclDCAHrqNjVY_v=w240-h480-rw", TDC TV
+https://tdcserver.com:19360/tdconlione-2/tdconlione-2.m3u8?PlaylistM3UCL
+
+
+
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://cdn.mos.cms.futurecdn.net/Tdvb4DPB6XfaMgAdxV4aZB.png", FIFA plus
+https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
+
+
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://play-lh.googleusercontent.com/Zt7pigoU67Zun6NMuXzKLSGdk-UHHfBlk59ck4TfMChUlqvrgJnZ23cbXQhDYd1Vww", ITV Deportes
+https://thm-it-roku.otteravision.com/thm/it/it.m3u8
+ 
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqB1HUSWvWb0aMA3gseRB4-GZpXzQJ7OOaTg&s", 2DA DIVICION
+https://jmp2.uk/stvp-ESBD3600001Q1
+
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/2ecbfa8a3f25cc1212dbcd975383b55a.webp",AZTECA DEPORTES
+https://azt-mun.otteravision.com/azt/mun/mun_1080p.m3u8
+
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4F5PEuGE-A01Fg-8-AtkUXmalU0BeZsuLkw&s",BARCELONA TV
+https://amg17560-fcb-amg17560c2-rakuten-es-4889.playouts.now.amagi.tv/playlist/amg17560-fcbarcelona-topbarcaspanish-rakutenes/playlist.m3u8
+
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5GaQ
+
+#EXTINF:-1 group-title="NOTICIAS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/03/Teleformula_2002.png/revision/latest?cb=20250626103033",Teleformula MX
+https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8
+
+#EXTINF:-1 group-title="24/7" tvg-logo="http://186.0.248.95:20202/images/los-simpson-24hs_285.png",los simpson
+http://186.0.248.95:20202/Live/92a992ec67f43100bd7e9c14622b9190/online-24-7_480.m3u8
+
+#EXTINF:-1 group-title="24/7" tvg-logo="https://play-lh.googleusercontent.com/L7EqfJwpBmEv6S9JApTXuWYAjiUxfRO_sywuvo-lDg-1M3wSceY9Go0gpwpdsVrFZXPR",ANIME VISION
+https://jmp2.uk/stvp-ES300029LP
+
+#EXTINF:-1 group-title="24/7" tvg-logo="https://motorvision.tv/wp-content/uploads/2023/09/MV_Plus_Logo_1920x1080.png",MOTORVISION
+https://jmp2.uk/stvp-ESBD3200001EG
+
+
+
+
+
+
+
+
+
+
 
 
 
