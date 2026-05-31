@@ -15,3 +15,6 @@ https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
 #EXTINF:-7 tvg-name="América TV" group-title="Argentina",América TV
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
 
+#EXTINF:-1 group-title="24/7" tvg-logo="hhttps://gravity.fitness/cdn/shop/articles/DBD_Ep1_-_Dragon_Team__28recap_29.webp?v=1747140746&width=2048",DRAGON BALL Z 
+https://live20.bozztv.com/giatv/giatv-dball/dball/chunks.m3u8
+
