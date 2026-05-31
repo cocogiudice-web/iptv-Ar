@@ -24,6 +24,22 @@ https://xumo-drct-ch835-ekq0p.fast.nbcuni.com/live/master.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQClt_U8epAX-uHmgsYlhRehkcJK0B2iMIk-Q&s",SONI CINE
 https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
 
+#EXTINF:-1 group-title="CINEMA" tvg-logo="https://creations.panzoid.com/creation-thumbnails/97670.jpg", HBO XTREME
+http://200.229.147.142:8000/play/a00t/index.m3u8
+ 
+#EXTINF:-1 group-title="CINEMA" tvg-logo="https://creations.panzoid.com/creation-thumbnails/97670.jpg", HBO2 HD
+http://200.229.147.142:8000/play/a00r/index.m3u8
+ 
+#EXTINF:-1 group-title="CINEMA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRxzhicMoo-B5zo4hi-8kTGAs68v3a-KRj7g&s", WARNER HD
+http://200.229.147.142:8000/play/a03e/index.m3u8
+ 
+#EXTINF:-1 group-title="CINEMA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShSOhbv5hYY9kCbS2Epl4ZA1WsJqjwg6Voew&s",AXN HD
+http://200.229.147.142:8000/play/a027/index.m3u8
+ 
+#EXTINF:-1 group-title="CINEMA" tvg-logo="https://pbs.twimg.com/profile_images/702722678877126656/1EWWFB3-_400x400.jpg", Golden Premiere HD
+http://200.229.147.142:8000/play/a00g/index.m3u8
+
+
 
 
 
