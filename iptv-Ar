@@ -7,7 +7,8 @@ https://stmvideo3.livecastv.com/fenixrioja/fenixrioja/playlist.m3u8
 http://45.5.151.147:8000/play/a00f/index.m3u8
 
 #EXTINF:-1 tvg-name="TN" group-title="Noticias Argentina",TN
-https://dai.google.com/linear/hls/pa/event/5OEEtA9FR-yrvhNE5K8PQQ/stream/59d860ac-2ff0-4243-8766-49ce82415d97:SCL2/master.m3u8
+https://dai.google.com/linear/hls/pa/event/5OEEtA9FR-yrvhNE5K8PQQ/stream/4b20edec-0d3b-4e82-a274-e5c83bfe3c0f:SCL2/master.m3u8
+
 #EXTINF:-1 tvg-name="A24" group-title="Noticias Argentina",A24
 https://g2.mc-hor.transport.edge-access.net/a12/ngrp:a24-100056_all/a24-100056_720p.m3u8
 
