@@ -6,16 +6,13 @@ https://stmvideo3.livecastv.com/fenixrioja/fenixrioja/playlist.m3u8
 #EXTINF:-1 tvg-name="El Trece" group-title="Argentina",El Trece
 http://45.5.151.147:8000/play/a00f/index.m3u8
 
-#EXTINF:-1 tvg-name="TN" group-title="Noticias Argentina",TN
-https://dai.google.com/linear/hls/pa/event/5OEEtA9FR-yrvhNE5K8PQQ/stream/962646e9-1681-411f-b9f7-54a1841b841c:SCL2/variant/f3819a034ffef8a72ee6050fd1af1802/bandwidth/3990800.m3u8
-
 #EXTINF:-1 tvg-name="A24" group-title="Noticias Argentina",A24
 https://g2.mc-hor.transport.edge-access.net/a12/ngrp:a24-100056_all/a24-100056_720p.m3u8
 
 #EXTINF:-1 tvg-name="Canal 26" group-title="Noticias Argentina",Canal 26
 https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
 
-#EXTINF:-0 tvg-name="América TV" group-title="Argentina",América TV
+#EXTINF:-1 tvg-name="América TV" group-title="Argentina",América TV
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
 
 #EXTINF:-1 group-title="NOTICIAS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/03/Teleformula_2002.png/revision/latest?cb=20250626103033",Teleformula MX
@@ -137,13 +134,10 @@ https://jmp2.uk/stvp-ESBD3200001EG
 https://live20.bozztv.com/giatv/giatv-dball/dball/chunks.m3u8
 
 #EXTINF:-1 group-title="Noticias",TN Noticias
-yt-dlp -g https://www.youtube.com/@todonoticias/live
-
-#EXTINF:-1 group-title="Noticias",A24
-yt-dlp -g https://www.youtube.com/@A24com/live
+https://www.youtube.com/@todonoticias/live
 
 #EXTINF:-1 group-title="Música",Los 40
-yt-dlp -g https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_ARGENTINAAAC.aac
+https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_ARGENTINAAAC.aac
 
 #EXTINF:-1 group-title="Radio",Radio Nacional
-yt-dlp -g https://sa.mp3.icecast.magma.edge-access.net/sc_rad39
+https://sa.mp3.icecast.magma.edge-access.net/sc_rad39
