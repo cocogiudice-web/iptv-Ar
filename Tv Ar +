@@ -1,0 +1,11 @@
+#EXTM3U
+
+#Radios
+#EXTINF:-1 tvg-id="" tvg-name="Radio La 100" group-title="Radios" tvg-logo="https://www.google.com/search?sa=X&sca_esv=163269b9f9bc3142&rlz=1C1UUXU_esAR1055AR1055&sxsrf=ANbL-n6iVSR5yWEBYa2OC6kp1hz1_fr0FQ:1780339289160&udm=2&fbs=ADc_l-bpk8W4E-qsVlOvbGJcDwpn75JLSqV3j_xbkySF4grw545UG0ET8-f8G7e80XFQMsIPP5nDB17NxkEbn5wZyd_qzL9wzYq9w5v6EJWFyyzLvezaegVac0Nm49IPj4z5TraB_ZkrHQhqn5iT2pFIh3m-4oEz7hg5B9eUoPgspZwDspljHIzM4mHAODfPoc1XILfcXlz75AnfvToKmjz1hmKIIipcJ76DH-Nq9UljvpX8O__4nB4&q=radio+la+100&ved=2ahUKEwiNxqPX2OaUAxUCLLkGHTkNKOgQtKgLegQIDxAB&biw=1531&bih=647&dpr=0.89#sv=CAMSVhoyKhBlLU1iZEJFTmRvT1BTZU9NMg5NYmRCRU5kb09QU2VPTToONmFnb2NxZGwtWi1lSU0gBCocCgZtb3NhaWMSEGUtTWJkQkVOZG9PUFNlT00YADABGAcglteyd0oIEAEYASABKAE", Radio La 100
+https://mdstrm.com/live-stream-playlist/68b74fd1d6512526f1f7c75a.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Latina TV" group-title="Radios" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Canal_Latina.png/800px-Canal_Latina.png", Latina TV
+https://stream-gtlc.telecentro.net.ar/hls/latinatvhls/0/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Fenix Multiplataforma" group-title="Radios" tvg-logo="https://www.google.com/imgres?q=radio%20fenix%20la%20rioja&imgurl=https%3A%2F%2Fstatic.mytuner.mobi%2Fmedia%2Ftvos_radios%2F131%2Fradio-fenix-951-fm.41b2c208.jpg&imgrefurl=https%3A%2F%2Fwww.radios-argentinas.org%2Fradio-fenix-951-fm&docid=RiBz6IcBNCyH5M&tbnid=2HCc2XvtGlwkGM&vet=12ahUKEwju7oXM2eaUAxXGLrkGHbpXDgUQnPAOegQIGxAB..i&w=400&h=400&hcb=2&ved=2ahUKEwju7oXM2eaUAxXGLrkGHbpXDgUQnPAOegQIGxAB", Fenix Multiplataforma
+https://stmvideo3.livecastv.com/fenixrioja/fenixrioja/playlist.m3u8
