@@ -1,21 +1,298 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="0534" tvg-name="Canal de la Música" group-title="Temáticos Argentinos", Canal de la Música
-https://g1.mc-slo.transport.edge-access.net/b08/ngrp:CM_CanaldelaMusica-100044_all/Playlist.m3u8?sense=true
+#EXTINF:-1 tvg-logo="logo.png" group-title="DEPORTES",ESPN
+https://tecnotv.club/dw11/phpcode/deportesla14hd.php?stream=espn&token=tecnotokenplustv230516F
+#EXTINF:-1 tvg-logo="logo.png" group-title="DEPORTES",espn 2
+https://tecnotv.club/dw11/phpcode/deportesla14hd.php?stream=espn2&token=tecnotokenplustv230516F
+#EXTINF:-1 tvg-logo="logo.png" group-title="DEPORTES",ESPN 3
+https://tecnotv.club/dw11/phpcode/deportesla14hd.php?stream=espn3&token=tecnotokenplustv230516F
+#EXTINF:-1 tvg-logo="logo.png" group-title="DEPORTES",ESPN 4
+https://tecnotv.club/dw11/phpcode/deportesla14hd.php?stream=espn4&token=tecnotokenplustv230516F
+#EXTINF:-1 tvg-logo="logo.png" group-title="DEPORTES",ESPN 5
+https://tecnotv.club/dw11/phpcode/deportesla14hd.php?stream=espn5&token=tecnotokenplustv230516F
+#EXTINF:-1 tvg-logo="logo.png" group-title="DEPORTES",ESPN 6
+https://tecnotv.club/dw11/phpcode/deportesla14hd.php?stream=espn6&token=tecnotokenplustv230516F
+#EXTINF:-1 tvg-logo="logo.png" group-title="DEPORTES",DS SPORT
+https://tecnotv.club/dw11/phpcode/deportesla14hd.php?stream=dsport&token=tecnotokenplustv230516F
+#EXTINF:-1 tvg-logo="logo.png" group-title="DEPORTES",DS SPORT 2
+https://tecnotv.club/dw11/phpcode/deportesla14hd.php?stream=dsports2&token=tecnotokenplustv230516F
+#EXTINF:-1 tvg-logo="logo.png" group-title="DEPORTES",DS SPORT PLUS
+https://tecnotv.club/dw11/phpcode/deportesla14hd.php?stream=dsportsplus&token=tecnotokenplustv230516F
+#EXTINF:-1 tvg-logo="logo.png" group-title="DEPORTES",ECDF LigaPro (eventos)
+https://tecnotv.club/dw11/phpcode/deportesla14hd.php?stream=ecdf_ligapro&token=tecnotokenplustv230516F
 
-#EXTINF:-1 tvg-id="0936" tvg-name="Ciudad Magazine" group-title="Temáticos Argentinos", Ciudad Magazine
-https://livetrx01.vodgc.net/live-01-07-ciudad.vodgc.net/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="logo.png" group-title="DEPORTES AR",Fox Sports
+https://tecnotv.club/dw11/phpcode/deportesla14hd.php?stream=foxsports&token=tecnotokenplustv230516F
+#EXTINF:-1 tvg-logo="logo.png" group-title="DEPORTES AR",Fox Sports 2
+https://tecnotv.club/dw11/phpcode/deportesla14hd.php?stream=foxsports2&token=tecnotokenplustv230516F
+#EXTINF:-1 tvg-logo="logo.png" group-title="DEPORTES AR",Fox Sports 3
+https://tecnotv.club/dw11/phpcode/deportesla14hd.php?stream=foxsports3&token=tecnotokenplustv230516F
+#EXTINF:-1 tvg-logo="logo.png" group-title="DEPORTES AR ",TNT Sports
+https://tecnotv.club/dw11/phpcode/deportesla14hd.php?stream=tntsports&token=tecnotokenplustv230516F
+#EXTINF:-1 tvg-logo="logo.png" group-title="DEPORTES AR",ESPN Premium
+https://tecnotv.club/dw11/phpcode/deportesla14hd.php?stream=espnpremium&token=tecnotokenplustv230516F
+#EXTINF:-1 tvg-logo="logo.png" group-title="DEPORTES AR",TyC Sports
+https://tecnotv.club/dw11/phpcode/deportesla14hd.php?stream=tycsports&token=tecnotokenplustv230516F
 
-#EXTINF:-1 tvg-id="0205" tvg-name="DW" group-title="Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/2560px-Deutsche_Welle_symbol_2012.svg.png",DW
-https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/master.m3u8
+#EXTINF:-1 tvg-logo="logo.png" group-title="DEPORTES PE",Liga1 MAX
+https://tecnotv.club/dw11/phpcode/deportesla14hd.php?stream=liga1max&token=tecnotokenplustv230516F
+#EXTINF:-1 tvg-logo="logo.png" group-title="DEPORTES PE",Movistar Deportes
+https://tecnotv.club/dw11/phpcode/deportesla14hd.php?stream=movistar&token=tecnotokenplustv230516F
 
-#EXTINF:-1 tvg-id="0209" tvg-name="RT en Español" group-title="Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/2048px-Russia-today-logo.svg.png",RT en Español
-https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
+#EXTINF:-1 tvg-logo="logo.png" group-title="DEPORTES CO",Win Sports Plus
+https://tecnotv.club/dw11/phpcode/deportesla14hd.php?stream=winsportsplus&token=tecnotokenplustv230516F
+#EXTINF:-1 tvg-logo="logo.png" group-title="DEPORTES CO",Win Sports plus (2)
+https://tecnotv.club/dw11/phpcode/deportesla14hd.php?stream=winsports2&token=tecnotokenplustv230516F
+#EXTINF:-1 tvg-logo="logo.png" group-title="DEPORTES CO",Win Sports
+https://tecnotv.club/dw11/phpcode/deportesla14hd.php?stream=winsports&token=tecnotokenplustv230516F
 
-#EXTINF:-1 tvg-id="0204" tvg-name="TeleSUR" group-title="Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/TeleSUR.png",TeleSUR
-https://mblesmain01.telesur.ultrabase.net/mbliveMain/hd/chunklist.m3u8
+#EXTINF:-1 tvg-logo="logo.png" group-title="DEPORTES MX",Sky Sports LaLiga
+https://tecnotv.club/dw11/phpcode/deportesla14hd.php?stream=sky_sports_laliga&token=tecnotokenplustv230516F
 
-#EXTINF:-1 tvg-id="" tvg-name="Radio La 100" group-title="Otros/Extras y Radios" tvg-logo="https://i.ibb.co/yFqTXRTC/CZJMM4-BJVRFANO4-VGMMYWSTEVE.webp", Radio La 100
-https://mdstrm.com/live-stream-playlist/68b74fd1d6512526f1f7c75a.m3u8
+#EXTINF:-1 tvg-logo="logo.png" group-title="DEPORTES US",Fox Deportes
+https://tecnotv.club/dw11/phpcode/deportesla14hd.php?stream=foxdeportes&token=tecnotokenplustv230516F
+#EXTINF:-1 tvg-logo="logo.png" group-title="DEPORTES US",ESPN Deportes
+https://tecnotv.club/dw11/phpcode/deportesla14hd.php?stream=espndeportes&token=tecnotokenplustv230516F
+#EXTINF:-1 tvg-logo="logo.png" group-title="DEPORTES US", TUDN
+https://tecnotv.club/dw11/phpcode/deportesla14hd.php?stream=tudn&token=tecnotokenplustv230516F
+#EXTINF:-1 tvg-logo="logo.png" group-title="DEPORTES US",Fox Sports 2
+https://tecnotv.club/dw11/phpcode/deportesla14hd.php?stream=foxsports2_usa&token=tecnotokenplustv230516F
+#EXTINF:-1 tvg-logo="logo.png" group-title="DEPORTES US",BeIN Sports EspaÃ±ol
+https://tecnotv.club/dw11/phpcode/deportesla14hd.php?stream=beinsportes&token=tecnotokenplustv230516F
 
-#EXTINF:-1 group-title="Radio",Radio Nacional
-https://sa.mp3.icecast.magma.edge-access.net/sc_rad39
+
+#EXTINF:-1 tvg-logo="logo.png" group-title="DEPORTES",ESPN 1 BO HD
+http://tecnotv.club/dw11/phpcode/deportes.php?c=104.250.128.34/livehttpplay?channel_id=23629&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 tvg-logo="logo.png" group-title="DEPORTES",ESPN 4 BO HD
+http://tecnotv.club/dw11/phpcode/deportes.php?c=104.250.128.34/livehttpplay?channel_id=23620&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 tvg-logo="logo.png" group-title="DEPORTES",ESPN 3 BO HD
+http://tecnotv.club/dw11/phpcode/deportes.php?c=104.250.128.34/livehttpplay?channel_id=23625&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 tvg-logo="logo.png" group-title="DEPORTES",ESPN 2 BO HD
+http://tecnotv.club/dw11/phpcode/deportes.php?c=104.250.128.34/livehttpplay?channel_id=23628&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 tvg-logo="logo.png" group-title="DEPORTES",ESPN 2 LATIONAMERICA HD
+http://tecnotv.club/dw11/phpcode/deportes.php?c=104.250.128.34/livehttpplay?channel_id=23511&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 tvg-logo="logo.png" group-title="DEPORTES",ESPN 3 HD ARGENTINA
+http://tecnotv.club/dw11/phpcode/deportes.php?c=104.250.128.34/livehttpplay?channel_id=23711&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 tvg-logo="logo.png" group-title="DEPORTES",ESPN 4 HD
+http://tecnotv.club/dw11/phpcode/deportes.php?c=104.250.128.34/livehttpplay?channel_id=23503&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 tvg-logo="logo.png" group-title="DEPORTES",DIRECTV SPORTS2 HD COLOMBIA
+http://tecnotv.club/dw11/phpcode/deportes.php?c=104.250.128.34/livehttpplay?channel_id=23538&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 tvg-logo="logo.png" group-title="DEPORTES",DIRECTV SPORTS+ HD COLOMBIA
+http://tecnotv.club/dw11/phpcode/deportes.php?c=104.250.128.34/livehttpplay?channel_id=23539&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 tvg-logo="logo.png" group-title="DEPORTES",FOX SPORTS 2 HD ARGENTINA
+http://tecnotv.club/dw11/phpcode/deportes.php?c=104.250.128.34/livehttpplay?channel_id=23508&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 tvg-logo="logo.png" group-title="DEPORTES",FOXSPORTS 3 HD ARGENTINA
+http://tecnotv.club/dw11/phpcode/deportes.php?c=104.250.128.34/livehttpplay?channel_id=23516&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 tvg-logo="logo.png" group-title="DEPORTES",FOX SPORTS HD ARGENTINA
+http://tecnotv.club/dw11/phpcode/deportes.php?c=104.250.128.34/livehttpplay?channel_id=23713&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 tvg-logo="logo.png" group-title="DEPORTES",ESPN HD 2 ARGENTINA
+http://tecnotv.club/dw11/phpcode/deportes.php?c=104.250.128.34/livehttpplay?channel_id=23709&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 tvg-logo="logo.png" group-title="DEPORTES",FOX SPORTS 3 HD ARG
+http://tecnotv.club/dw11/phpcode/deportes.php?c=104.250.128.34/livehttpplay?channel_id=23703&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 tvg-logo="logo.png" group-title="DEPORTES",TIGO SPORTS HD PANAMÃ
+http://tecnotv.club/dw11/phpcode/deportes.php?c=104.250.128.34/livehttpplay?channel_id=23726&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 tvg-logo="logo.png" group-title="DEPORTES",TNT SPORTS CHILE HD
+http://tecnotv.club/dw11/phpcode/deportes.php?c=104.250.128.34/livehttpplay?channel_id=23558&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 tvg-logo="logo.png" group-title="DEPORTES",TIGO SPORTS 1 BO HD
+http://tecnotv.club/dw11/phpcode/deportes.php?c=104.250.128.34/livehttpplay?channel_id=23600&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 tvg-logo="logo.png" group-title="DEPORTES",FOX SPORTS CHILE HD
+http://tecnotv.club/dw11/phpcode/deportes.php?c=104.250.128.34/livehttpplay?channel_id=23559&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 tvg-logo="logo.png" group-title="DEPORTES",FOX SPORTS 2 HD ARG
+http://tecnotv.club/dw11/phpcode/deportes.php?c=104.250.128.34/livehttpplay?channel_id=23701&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 tvg-logo="logo.png" group-title="DEPORTES",GOLF USA
+http://tecnotv.club/dw11/phpcode/deportes.php?c=nor1live.win/livehttpplay?channel_id=23130&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 tvg-logo="logo.png" group-title="DEPORTES",NBA USA
+http://tecnotv.club/dw11/phpcode/deportes.php?c=nor1live.win/livehttpplay?channel_id=23128&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 tvg-logo="logo.png" group-title="DEPORTES",FOX PREMIUM HD
+http://tecnotv.club/dw11/phpcode/deportes.php?c=nor1live.win/livehttpplay?channel_id=23054&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 tvg-logo="logo.png" group-title="DEPORTES",TENNIS USA
+http://tecnotv.club/dw11/phpcode/deportes.php?c=nor1live.win/livehttpplay?channel_id=23129&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 tvg-logo="logo.png" group-title="DEPORTES",CBS SPORTS USA
+http://tecnotv.club/dw11/phpcode/deportes.php?c=nor1live.win/livehttpplay?channel_id=23132&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 tvg-logo="logo.png" group-title="DEPORTES",FANDUEL TV USA
+http://tecnotv.club/dw11/phpcode/deportes.php?c=nor1live.win/livehttpplay?channel_id=23136&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 tvg-logo="logo.png" group-title="DEPORTES",UNIMAS EAST HD
+http://tecnotv.club/dw11/phpcode/deportes.php?c=nor1live.win/livehttpplay?channel_id=23093&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 tvg-logo="logo.png" group-title="DEPORTES",NXT SPORTS USA
+http://tecnotv.club/dw11/phpcode/deportes.php?c=nor1live.win/livehttpplay?channel_id=23143&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 tvg-logo="logo.png" group-title="DEPORTES",MOTORTREND USA
+http://tecnotv.club/dw11/phpcode/deportes.php?c=nor1live.win/livehttpplay?channel_id=23150&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 tvg-logo="logo.png" group-title="DEPORTES",UNIMAS WEST HD
+http://tecnotv.club/dw11/phpcode/deportes.php?c=nor1live.win/livehttpplay?channel_id=23094&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 tvg-logo="logo.png" group-title="DEPORTES",OXYGEN EAST HD
+http://tecnotv.club/dw11/phpcode/deportes.php?c=nor1live.win/livehttpplay?channel_id=23068&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 tvg-logo="logo.png" group-title="DEPORTES",BET CanadÃ¡ HD
+http://tecnotv.club/dw11/phpcode/deportes.php?c=nor1live.win/livehttpplay?channel_id=23063&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 tvg-logo="logo.png" group-title="DEPORTES",GOLDEN EDGE HD
+http://tecnotv.club/dw11/phpcode/deportes.php?c=nor1live.win/livehttpplay?channel_id=23047&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 tvg-logo="logo.png" group-title="DEPORTES",MLB NETWORK HD
+http://tecnotv.club/dw11/phpcode/deportes.php?c=nor1live.win/livehttpplay?channel_id=23103&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 tvg-logo="logo.png" group-title="DEPORTES",PURSUIT CHANNEL
+http://tecnotv.club/dw11/phpcode/deportes.php?c=nor1live.win/livehttpplay?channel_id=23137&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 tvg-logo="logo.png" group-title="DEPORTES",BIG NETWORK USA
+http://tecnotv.club/dw11/phpcode/deportes.php?c=nor1live.win/livehttpplay?channel_id=23139&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 tvg-logo="logo.png" group-title="DEPORTES",MGM+MARQUE HD
+http://tecnotv.club/dw11/phpcode/deportes.php?c=nor1live.win/livehttpplay?channel_id=23075&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 tvg-logo="logo.png" group-title="DEPORTES",BET BET West HD
+http://tecnotv.club/dw11/phpcode/deportes.php?c=nor1live.win/livehttpplay?channel_id=23066&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 tvg-logo="logo.png" group-title="DEPORTES",BET Caribe HD
+http://tecnotv.club/dw11/phpcode/deportes.php?c=nor1live.win/livehttpplay?channel_id=23062&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 tvg-logo="logo.png" group-title="DEPORTES",AFN spectrum HD
+http://tecnotv.club/dw11/phpcode/deportes.php?c=nor1live.win/livehttpplay?channel_id=23019&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 tvg-logo="logo.png" group-title="DEPORTES",FOX SPORTS 3 HD
+http://tecnotv.club/dw11/phpcode/deportes.php?c=nor1live.win/livehttpplay?channel_id=23055&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 tvg-logo="logo.png" group-title="DEPORTES",ESPN ACCN USA
+http://tecnotv.club/dw11/phpcode/deportes.php?c=nor1live.win/livehttpplay?channel_id=23141&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 tvg-logo="logo.png" group-title="DEPORTES",MAVTV HD WEST
+http://tecnotv.club/dw11/phpcode/deportes.php?c=nor1live.win/livehttpplay?channel_id=23096&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 tvg-logo="logo.png" group-title="DEPORTES",GOLF CHANNEL HD
+http://tecnotv.club/dw11/phpcode/deportes.php?c=nor1live.win/livehttpplay?channel_id=23005&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 tvg-logo="logo.png" group-title="DEPORTES",MAGNOLIA HD WES
+http://tecnotv.club/dw11/phpcode/deportes.php?c=nor1live.win/livehttpplay?channel_id=23101&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 tvg-logo="logo.png" group-title="DEPORTES",ESPN NEWS USA
+http://tecnotv.club/dw11/phpcode/deportes.php?c=nor1live.win/livehttpplay?channel_id=23121&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 tvg-logo="logo.png" group-title="DEPORTES",LOGO EAST HD
+http://tecnotv.club/dw11/phpcode/deportes.php?c=nor1live.win/livehttpplay?channel_id=23014&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 tvg-logo="logo.png" group-title="DEPORTES",ESPN NETWORK USA
+http://tecnotv.club/dw11/phpcode/deportes.php?c=nor1live.win/livehttpplay?channel_id=23140&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 tvg-logo="logo.png" group-title="DEPORTES",FOX DEPORTES USA
+http://tecnotv.club/dw11/phpcode/deportes.php?c=nor1live.win/livehttpplay?channel_id=23134&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 tvg-logo="logo.png" group-title="DEPORTES",UNIVERSO WEST HD
+http://tecnotv.club/dw11/phpcode/deportes.php?c=nor1live.win/livehttpplay?channel_id=23087&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 tvg-logo="logo.png" group-title="DEPORTES",UNIVERSO EAST HD
+http://tecnotv.club/dw11/phpcode/deportes.php?c=nor1live.win/livehttpplay?channel_id=23086&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 tvg-logo="logo.png" group-title="DEPORTES",NICK WEST HD
+http://tecnotv.club/dw11/phpcode/deportes.php?c=nor1live.win/livehttpplay?channel_id=23079&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 tvg-logo="logo.png" group-title="DEPORTES",MGM+DRIVE HD
+http://tecnotv.club/dw11/phpcode/deportes.php?c=nor1live.win/livehttpplay?channel_id=23076&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 tvg-logo="logo.png" group-title="DEPORTES",SyFy East HD
+http://tecnotv.club/dw11/phpcode/deportes.php?c=nor1live.win/livehttpplay?channel_id=23071&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 tvg-logo="logo.png" group-title="DEPORTES",TELEMUNDO HD
+http://tecnotv.club/dw11/phpcode/deportes.php?c=nor1live.win/livehttpplay?channel_id=23042&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 tvg-logo="logo.png" group-title="DEPORTES",Hallmark West HD
+http://tecnotv.club/dw11/phpcode/deportes.php?c=nor1live.win/livehttpplay?channel_id=23058&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 tvg-logo="logo.png" group-title="DEPORTES",Hallmark East HD
+http://tecnotv.club/dw11/phpcode/deportes.php?c=nor1live.win/livehttpplay?channel_id=23057&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 tvg-logo="logo.png" group-title="DEPORTES",ÃšNICABLE HD
+http://tecnotv.club/dw11/phpcode/deportes.php?c=nor1live.win/livehttpplay?channel_id=23040&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 tvg-logo="logo.png" group-title="DEPORTES",AFN movie HD
+http://tecnotv.club/dw11/phpcode/deportes.php?c=nor1live.win/livehttpplay?channel_id=23018&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 tvg-logo="logo.png" group-title="DEPORTES",NICK EAST HD
+http://tecnotv.club/dw11/phpcode/deportes.php?c=nor1live.win/livehttpplay?channel_id=23010&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 tvg-logo="logo.png" group-title="DEPORTES",LOGO EAST HD
+http://tecnotv.club/dw11/phpcode/deportes.php?c=nor1live.win/livehttpplay?channel_id=23014&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 tvg-logo="logo.png" group-title="DEPORTES",ESPN DEPORTES USA
+http://tecnotv.club/dw11/phpcode/deportes.php?c=nor1live.win/livehttpplay?channel_id=23135&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 tvg-logo="logo.png" group-title="DEPORTES",VH1 WEST HD
+http://tecnotv.club/dw11/phpcode/deportes.php?c=nor1live.win/livehttpplay?channel_id=23080&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 tvg-logo="logo.png" group-title="DEPORTES",BANDAMAX HD
+http://tecnotv.club/dw11/phpcode/deportes.php?c=nor1live.win/livehttpplay?channel_id=23041&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 tvg-logo="logo.png" group-title="DEPORTES",Pac-12 Network HD
+http://tecnotv.club/dw11/phpcode/deportes.php?c=nor1live.win/livehttpplay?channel_id=23095&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 tvg-logo="logo.png" group-title="DEPORTES",SNY (SPORTNET NY)
+http://tecnotv.club/dw11/phpcode/deportes.php?c=nor1live.win/livehttpplay?channel_id=23148&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 tvg-logo="logo.png" group-title="DEPORTES",MSG +HD USA
+http://tecnotv.club/dw11/phpcode/deportes.php?c=nor1live.win/livehttpplay?channel_id=23147&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 tvg-logo="logo.png" group-title="DEPORTES",PARAMOUND WEST HD
+http://tecnotv.club/dw11/phpcode/deportes.php?c=nor1live.win/livehttpplay?channel_id=23012&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 tvg-logo="logo.png" group-title="DEPORTES",UNIVISION WEST HD
+http://tecnotv.club/dw11/phpcode/deportes.php?c=nor1live.win/livehttpplay?channel_id=23089&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 tvg-logo="logo.png" group-title="DEPORTES",UNIVISION EAST HD
+http://tecnotv.club/dw11/phpcode/deportes.php?c=nor1live.win/livehttpplay?channel_id=23088&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 tvg-logo="logo.png" group-title="DEPORTES",ESPN HD USA
+http://tecnotv.club/dw11/phpcode/deportes.php?c=nor1live.win/livehttpplay?channel_id=23120&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 tvg-logo="logo.png" group-title="DEPORTES",MTV HITS HD
+http://tecnotv.club/dw11/phpcode/deportes.php?c=nor1live.win/livehttpplay?channel_id=23011&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 tvg-logo="logo.png" group-title="DEPORTES",PARAMOUND EAST HD
+http://tecnotv.club/dw11/phpcode/deportes.php?c=nor1live.win/livehttpplay?channel_id=23082&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 tvg-logo="logo.png" group-title="DEPORTES",BET Her Caribe HD
+http://tecnotv.club/dw11/phpcode/deportes.php?c=nor1live.win/livehttpplay?channel_id=23065&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 tvg-logo="logo.png" group-title="DEPORTES",CMT EAST HD
+http://tecnotv.club/dw11/phpcode/deportes.php?c=nor1live.win/livehttpplay?channel_id=23077&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 tvg-logo="logo.png" group-title="DEPORTES",MTV EAST HD
+http://tecnotv.club/dw11/phpcode/deportes.php?c=nor1live.win/livehttpplay?channel_id=23078&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 tvg-logo="logo.png" group-title="DEPORTES",VH1 WEST HD
+http://tecnotv.club/dw11/phpcode/deportes.php?c=nor1live.win/livehttpplay?channel_id=23080&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 tvg-logo="logo.png" group-title="DEPORTES",MTV LIVE HD
+http://tecnotv.club/dw11/phpcode/deportes.php?c=nor1live.win/livehttpplay?channel_id=23081&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 tvg-logo="logo.png" group-title="DEPORTES",PARAMOUND EAST HD
+http://tecnotv.club/dw11/phpcode/deportes.php?c=nor1live.win/livehttpplay?channel_id=23082&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 tvg-logo="logo.png" group-title="DEPORTES",UNIVISION EAST HD
+http://tecnotv.club/dw11/phpcode/deportes.php?c=nor1live.win/livehttpplay?channel_id=23088&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 tvg-logo="logo.png" group-title="DEPORTES",UNIVISION WEST HD
+http://tecnotv.club/dw11/phpcode/deportes.php?c=nor1live.win/livehttpplay?channel_id=23089&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 tvg-logo="logo.png" group-title="DEPORTES",Pac-12 Network HD
+http://tecnotv.club/dw11/phpcode/deportes.php?c=nor1live.win/livehttpplay?channel_id=23095&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 tvg-logo="logo.png" group-title="DEPORTES",ESPN HD USA
+http://tecnotv.club/dw11/phpcode/deportes.php?c=nor1live.win/livehttpplay?channel_id=23120&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 tvg-logo="logo.png" group-title="DEPORTES",FS2 FOXSPORTS 2US
+http://tecnotv.club/dw11/phpcode/deportes.php?c=nor1live.win/livehttpplay?channel_id=23142&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 tvg-logo="logo.png" group-title="DEPORTES",MSG +HD USA
+http://tecnotv.club/dw11/phpcode/deportes.php?c=nor1live.win/livehttpplay?channel_id=23147&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 tvg-logo="logo.png" group-title="DEPORTES",SNY (SPORTNET NY)
+http://tecnotv.club/dw11/phpcode/deportes.php?c=nor1live.win/livehttpplay?channel_id=23148&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 tvg-logo="logo.png" group-title="DEPORTES",COZI TV SD
+http://tecnotv.club/dw11/phpcode/deportes.php?c=nor1live.win/livehttpplay?channel_id=23000&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 tvg-logo="logo.png" group-title="DEPORTES",ESPN U USA
+http://tecnotv.club/dw11/phpcode/deportes.php?c=nor1live.win/livehttpplay?channel_id=23122&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 tvg-logo="logo.png" group-title="DEPORTES",ESPN 2 USA
+http://tecnotv.club/dw11/phpcode/deportes.php?c=nor1live.win/livehttpplay?channel_id=23123&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 tvg-logo="logo.png" group-title="DEPORTES",FS1 FOXSPORTS 1 US
+http://tecnotv.club/dw11/phpcode/deportes.php?c=nor1live.win/livehttpplay?channel_id=23131&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 tvg-logo="logo.png" group-title="DEPORTES",YES HD USA
+http://tecnotv.club/dw11/phpcode/deportes.php?c=nor1live.win/livehttpplay?channel_id=23145&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 tvg-logo="logo.png" group-title="DEPORTES",MSG HD USA
+http://tecnotv.club/dw11/phpcode/deportes.php?c=nor1live.win/livehttpplay?channel_id=23146&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 tvg-logo="logo.png" group-title="DEPORTES",TV ONE HD
+http://tecnotv.club/dw11/phpcode/deportes.php?c=nor1live.win/livehttpplay?channel_id=23007&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 tvg-logo="logo.png" group-title="DEPORTES",ADN 40 HD
+http://tecnotv.club/dw11/phpcode/deportes.php?c=nor1live.win/livehttpplay?channel_id=23030&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 tvg-logo="logo.png" group-title="DEPORTES",DISTRITO COMEDIA HD
+http://tecnotv.club/dw11/phpcode/deportes.php?c=nor1live.win/livehttpplay?channel_id=23043&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 tvg-logo="logo.png" group-title="DEPORTES",GOLDEN HD
+http://tecnotv.club/dw11/phpcode/deportes.php?c=nor1live.win/livehttpplay?channel_id=23046&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 tvg-logo="logo.png" group-title="DEPORTES",UNIVERSAL CINEMA HD
+http://tecnotv.club/dw11/phpcode/deportes.php?c=nor1live.win/livehttpplay?channel_id=23051&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 tvg-logo="logo.png" group-title="DEPORTES",REVOLT HD
+http://tecnotv.club/dw11/phpcode/deportes.php?c=nor1live.win/livehttpplay?channel_id=23084&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 tvg-logo="logo.png" group-title="DEPORTES",PARAMOUND CARIBE HD
+http://tecnotv.club/dw11/phpcode/deportes.php?c=nor1live.win/livehttpplay?channel_id=23118&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 tvg-logo="logo.png" group-title="DEPORTES",MAVTV USA
+http://tecnotv.club/dw11/phpcode/deportes.php?c=nor1live.win/livehttpplay?channel_id=23126&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 tvg-logo="logo.png" group-title="DEPORTES",AXSTV USA
+http://tecnotv.club/dw11/phpcode/deportes.php?c=nor1live.win/livehttpplay?channel_id=23151&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 tvg-logo="logo.png" group-title="DEPORTES",Olimpics Extra 1 HD
+http://tecnotv.club/dw11/phpcode/deportes.php?c=nor1live.win/livehttpplay?channel_id=23152&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 tvg-logo="logo.png" group-title="DEPORTES",PARAMOUND CANADÃ HD
+http://tecnotv.club/dw11/phpcode/deportes.php?c=nor1live.win/livehttpplay?channel_id=23013&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 tvg-logo="logo.png" group-title="DEPORTES",UNIVERSAL PREMIER HD
+http://tecnotv.club/dw11/phpcode/deportes.php?c=nor1live.win/livehttpplay?channel_id=23050&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 tvg-logo="logo.png" group-title="DEPORTES",GOLTV HD
+http://tecnotv.club/dw11/phpcode/deportes.php?c=nor1live.win/livehttpplay?channel_id=23056&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 tvg-logo="logo.png" group-title="DEPORTES",Story HD
+http://tecnotv.club/dw11/phpcode/deportes.php?c=nor1live.win/livehttpplay?channel_id=23085&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 tvg-logo="logo.png" group-title="DEPORTES",Newsnation (WGNA) HD
+http://tecnotv.club/dw11/phpcode/deportes.php?c=nor1live.win/livehttpplay?channel_id=23102&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 tvg-logo="logo.png" group-title="DEPORTES",SyFy HD
+http://tecnotv.club/dw11/phpcode/deportes.php?c=nor1live.win/livehttpplay?channel_id=23111&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 tvg-logo="logo.png" group-title="DEPORTES",NFL USA
+http://tecnotv.club/dw11/phpcode/deportes.php?c=nor1live.win/livehttpplay?channel_id=23124&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 tvg-logo="logo.png" group-title="DEPORTES",MLB USA
+http://tecnotv.club/dw11/phpcode/deportes.php?c=nor1live.win/livehttpplay?channel_id=23125&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 tvg-logo="logo.png" group-title="DEPORTES",NHL USA
+http://tecnotv.club/dw11/phpcode/deportes.php?c=nor1live.win/livehttpplay?channel_id=23127&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 tvg-logo="logo.png" group-title="DEPORTES",TNT USA
+http://tecnotv.club/dw11/phpcode/deportes.php?c=nor1live.win/livehttpplay?channel_id=23133&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 tvg-logo="logo.png" group-title="DEPORTES",USA HD
+http://tecnotv.club/dw11/phpcode/deportes.php?c=nor1live.win/livehttpplay?channel_id=23112&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 tvg-logo="logo.png" group-title="DEPORTES",USA HD
+http://tecnotv.club/dw11/phpcode/deportes.php?c=nor1live.win/livehttpplay?channel_id=23069&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 tvg-logo="logo.png" group-title="DEPORTES",MGM+HD
+http://tecnotv.club/dw11/phpcode/deportes.php?c=nor1live.win/livehttpplay?channel_id=23072&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 tvg-logo="logo.png" group-title="DEPORTES",fyi HD
+http://tecnotv.club/dw11/phpcode/deportes.php?c=nor1live.win/livehttpplay?channel_id=23108&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 tvg-logo="logo.png" group-title="DEPORTES",NBC SPORTS CHICAGO USA
+http://tecnotv.club/dw11/phpcode/deportes.php?c=nor1live.win/livehttpplay?channel_id=23149&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 tvg-logo="logo.png" group-title="DEPORTES",UNIVERSAL REALITYKIT HD
+http://tecnotv.club/dw11/phpcode/deportes.php?c=nor1live.win/livehttpplay?channel_id=23053&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 tvg-logo="logo.png" group-title="DEPORTES",GREAT AMERICAN FAMILY WEST
+http://tecnotv.club/dw11/phpcode/deportes.php?c=nor1live.win/livehttpplay?channel_id=23100&token=tecnotokenplustv230516F&f=.m3u8
