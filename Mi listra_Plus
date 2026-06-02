@@ -1,22 +1,18 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://imgur.com/Q7kuIdC.png" group-title="CINE Y SERIE",CINDIE
-http://tecnotv.club/dw11/phpcode/distro.php?c=cindie-tv
-#EXTINF:-1 tvg-logo="https://imgur.com/lt9iw7r.png" group-title="CINE Y SERIES",Mi Miedo Canal
-http://tecnotv.club/dw11/phpcode/distro.php?c=mi-miedo-canal
-#EXTINF:-1 tvg-logo="https://imgur.com/DRRHYTq.png" group-title="INFANTIL",Zaz
-http://tecnotv.club/dw11/phpcode/distro.php?c=zaz
-#EXTINF:-1 tvg-logo="https://imgur.com/pn5bxez.png" group-title="ENTRETENIMIENTO",MI Raza
-http://tecnotv.club/dw11/phpcode/distro.php?c=mi-raza-canal
-#EXTINF:-1 tvg-logo="https://imgur.com/GsXkH1B.png" group-title="INFANTIL",Pitufo TV
-http://tecnotv.club/dw11/phpcode/distro.php?c=pitufo-tv
-#EXTINF:-1 tvg-logo="https://imgur.com/X1aVw04.png" group-title="CINE Y SERIES",BOX CINEMA
-http://tecnotv.club/dw11/phpcode/distro.php?c=box-cinema
-#EXTINF:-1 tvg-logo="https://imgur.com/aZQyWKf.png" group-title="MÚSICA",ÉXITOS MUSICAL
-http://tecnotv.club/dw11/phpcode/distro.php?c=hits-mexicanos
-#EXTINF:-1 tvg-logo="https://imgur.com/oN5jnse.png" group-title="MUSICA",ROCKOLA TV
-http://tecnotv.club/dw11/phpcode/distro.php?c=rockola-television
-#EXTINF:-1 tvg-logo="https://imgur.com/gQz0HBx.png" group-title="INFANTIL",TOONZ KIDS
-http://tecnotv.club/dw11/phpcode/distro.php?c=toonzkids-ninos
-#EXTINF:-1 tvg-logo="https://imgur.com/j77s5Js.png" group-title="INFANTIL",TOON GOGGLES
-http://tecnotv.club/dw11/phpcode/distro.php?c=toon-goggles-en-espanol
-
+#EXTINF:-1 group-title="-",Cartoon Network
+http://tecnotv.club/dw11/phpcode/ssiptv.php?c=a029&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 grupo-título="-",LAS ESTRELLAS LEGAL
+http://tecnotv.club/dw11/phpcode/ssiptv.php?c=a02c&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 grupo-título="-",TL NOVELAS
+http://tecnotv.club/dw11/phpcode/ssiptv.php?c=a05k&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/dw11/phpcode/ssiptv.php?c=a03i&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",Boomerang
+http://tecnotv.club/dw11/phpcode/ssiptv.php?c=a0g0&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",CARTOON NT HD
+http://tecnotv.club/dw11/phpcode/ssiptv.php?c=a0l0&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",Discovery Kids
+http://tecnotv.club/dw11/phpcode/ssiptv.php?c=a03l&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",Disney JR
+http://tecnotv.club/dw11/phpcode/ssiptv.php?c=a0g1&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",Disney channel
+http://tecnotv.club/dw11/phpcode/ssiptv.php?c=a0i8&token=tecnotokenplustv230516F&f=.m3u8
