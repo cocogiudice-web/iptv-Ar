@@ -1,3 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="El Trece" group-title="Argentina",El Trece
-http://45.5.151.147:8000/play/a00f/index.m3u8
+#EXTINF:-1 tvg-name="A24" group-title="Noticias Argentina",A24
+https://g2.mc-hor.transport.edge-access.net/a12/ngrp:a24-100056_all/a24-100056_720p.m3u8
