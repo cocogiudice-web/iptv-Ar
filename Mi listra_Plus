@@ -419,6 +419,8 @@ http://tecnotv.club/dw11/phpcode/ssiptv.php?c=a0i8&token=tecnotokenplustv230516F
 #EXTINF:-1 tvg-logo="https://imgur.com/oN5jnse.png" group-title="MUSICA",ROCKOLA TV
 http://tecnotv.club/dw11/phpcode/distro.php?c=rockola-television
 
+#EXTINF:-1 tvg-id="0534" tvg-name="Canal de la Música" group-title="Temáticos Argentinos", Canal de la Música
+https://g1.mc-slo.transport.edge-access.net/b08/ngrp:CM_CanaldelaMusica-100044_all/Playlist.m3u8?sense=true
 
 
 # 24/7
