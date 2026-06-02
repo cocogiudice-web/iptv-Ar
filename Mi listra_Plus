@@ -1,3 +1,18 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://imgur.com/76pIwxw.png" group-title="MÉXICO" , Las Estrellas
-https://dai.google.com/ssai/event/_e1s_U52SCGL6zTnlTrbVQ/master.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/BT1f1ER.png" group-title="ENTRETENIMIENTO",Kanade TV
+https://static.kanade.cl/hls/kanade.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/ADPkway.png" group-title="ENTRETENIMIENTO",EnerGeek Retro
+https://cdn.energeek.cl/hls/energeekretro.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/Q9Sg7FJ.png" group-title="ENTRETENIMIENTO",EnerGeek Fan
+https://cdn.energeek.cl/hls/energeekfan.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/ieOn20X.png" group-title="MÚSICA",EnerGeek Radio
+https://cdn.energeek.cl/hls/energeekradio.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/BT1f1ER.png" group-title="ENTRETENIMIENTO",Max Anime
+https://streamlov.alsolnet.com/maxanime/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/BT1f1ER.png" group-title="ENTRETENIMIENTO",PrideTV Latam
+https://cdn.energeek.cl/hls/pridetvlatam.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/IHVHNE4.png" group-title="ENTRETENIMIENTO",DreikoTV
+https://rtv.fullhd-streaming.com:19360/dreikotv/dreikotv.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/IHVHNE4.png" group-title="ENTRETENIMIENTO",Adult Swim
+http://181.78.208.25:8000/play/a02m&token=tecnotokenplustv230516F&f=.m3u8
+
