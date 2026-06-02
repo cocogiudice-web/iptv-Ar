@@ -1,107 +1,437 @@
 #EXTM3U
+# Radios 
+
+#EXTINF:-1 tvg-name="Fenix Multiplataforma" group-title="La Rioja",Fenix Multiplataforma
+https://stmvideo3.livecastv.com/fenixrioja/fenixrioja/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Radio La 100" group-title="Otros/Extras y Radios" tvg-logo="https://i.ibb.co/yFqTXRTC/CZJMM4-BJVRFANO4-VGMMYWSTEVE.webp", Radio La 100
+https://mdstrm.com/live-stream-playlist/68b74fd1d6512526f1f7c75a.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/ieOn20X.png" group-title="MÚSICA",EnerGeek Radio
+https://cdn.energeek.cl/hls/energeekradio.m3u8
+
+#Noticias 
+
+#EXTINF:-1 tvg-id="0917" tvg-name="Canal 26" group-title="Noticias" tvg-logo="https://files.catbox.moe/n6c2ol.png", Canal 26
+https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
+
+#EXTINF:-1 tvg-id="0917" tvg-name="Canal 26" group-title="Noticias" tvg-logo="https://files.catbox.moe/n6c2ol.png", Canal 26
+https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
+
+#EXTINF:-1 tvg-id="0905" tvg-name="TN" group-title="Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/3840px-TN_todo_noticias_logo.svg.png", TN
+#EXTVLCOPT:http-referrer=https://tn.com.ar/envivo/24hs
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://live-01-01-tn.vodgc.net/TN_DAI_Beta/index.m3u8
+
+#EXTINF:-1 tvg-id="0964" tvg-name="Canal E" group-title="Noticias" tvg-logo="https://files.catbox.moe/h069t6.webp", Canal E
+https://unlimited1-saopaulo.dps.live/perfiltv/perfiltv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="0937" tvg-name="Telemax" group-title="Otros/Extras y Radios" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Telemax_Argentina_%282018%29.png" , Telemax
+https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8
+
+#EXTINF:-1 tvg-id="0939" tvg-name="Net TV" group-title="General/Abierta" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a5/Net_TV_logo.png", Net TV
+https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="0205" tvg-name="DW" group-title="Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/2560px-Deutsche_Welle_symbol_2012.svg.png",DW
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/master.m3u8
+
+
+# Otros/Tematicos
+
+#EXTINF:-1 tvg-name="El Trece" group-title="Argentina",El Trece
+http://45.5.151.147:8000/play/a00f/index.m3u8
+
+
+#EXTINF:-1 tvg-id="0936" tvg-name="Ciudad Magazine" group-title="Temáticos Argentinos", Ciudad Magazine
+https://livetrx01.vodgc.net/live-01-07-ciudad.vodgc.net/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="0204" tvg-name="TeleSUR" group-title="Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/TeleSUR.png",TeleSUR
+https://mblesmain01.telesur.ultrabase.net/mbliveMain/hd/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="0209" tvg-name="RT en Español" group-title="Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/2048px-Russia-today-logo.svg.png",RT en Español
+https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="0205" tvg-name="DW" group-title="Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/2560px-Deutsche_Welle_symbol_2012.svg.png",DW
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/Q7kuIdC.png" group-title="CINE Y SERIE",CINDIE
+http://tecnotv.club/dw11/phpcode/distro.php?c=cindie-tv
+
+#EXTINF:-1 tvg-logo="https://imgur.com/lt9iw7r.png" group-title="CINE Y SERIES",Mi Miedo Canal
+http://tecnotv.club/dw11/phpcode/distro.php?c=mi-miedo-canal
+
+#EXTINF:-1 tvg-logo="https://imgur.com/pn5bxez.png" group-title="ENTRETENIMIENTO",MI Raza
+http://tecnotv.club/dw11/phpcode/distro.php?c=mi-raza-canal
+
 #EXTINF:-1 group-title="-",DISCOVERY THEATHER HD
 http://tecnotv.club/dw11/phpcode/ssiptv.php?c=a0hv&token=tecnotokenplustv230516F&f=.m3u8
+
 #EXTINF:-1 group-title="-",Discovery Channel HD
 http://tecnotv.club/dw11/phpcode/ssiptv.php?c=a0kn&token=tecnotokenplustv230516F&f=.m3u8
+
 #EXTINF:-1 group-title="-",Discovery ID HD
 http://tecnotv.club/dw11/phpcode/ssiptv.php?c=a0ks&token=tecnotokenplustv230516F&f=.m3u8
+
 #EXTINF:-1 group-title="-",Discovery Turbo
 http://tecnotv.club/dw11/phpcode/ssiptv.php?c=a0ia&token=tecnotokenplustv230516F&f=.m3u8
+
 #EXTINF:-1 group-title="-",Discovery World HD
 http://tecnotv.club/dw11/phpcode/ssiptv.php?c=a0kp&token=tecnotokenplustv230516F&f=.m3u8
+
 #EXTINF:-1 group-title="-",El Gourmet
 http://tecnotv.club/dw11/phpcode/ssiptv.php?c=a04v&token=tecnotokenplustv230516F&f=.m3u8
+
 #EXTINF:-1 group-title="-",FX HD
 http://tecnotv.club/dw11/phpcode/ssiptv.php?c=a0gw&token=tecnotokenplustv230516F&f=.m3u8
+
 #EXTINF:-1 group-title="-",HBO Family HD
 http://tecnotv.club/dw11/phpcode/ssiptv.php?c=a0l5&token=tecnotokenplustv230516F&f=.m3u8
+
 #EXTINF:-1 group-title="-",HBO HD
 http://tecnotv.club/dw11/phpcode/ssiptv.php?c=a0l2&token=tecnotokenplustv230516F&f=.m3u8
+
 #EXTINF:-1 group-title="-",HBO Plus HD
 http://tecnotv.club/dw11/phpcode/ssiptv.php?c=a0l4&token=tecnotokenplustv230516F&f=.m3u8
+
 #EXTINF:-1 group-title="-",HBO XTREME HD
 http://tecnotv.club/dw11/phpcode/ssiptv.php?c=a0l6&token=tecnotokenplustv230516F&f=.m3u8
+
 #EXTINF:-1 group-title="-",HBO2 HD
 http://tecnotv.club/dw11/phpcode/ssiptv.php?c=a00c&token=tecnotokenplustv230516F&f=.m3u8
+
 #EXTINF:-1 group-title="-",History 2
 http://tecnotv.club/dw11/phpcode/ssiptv.php?c=a0jp&token=tecnotokenplustv230516F&f=.m3u8
+
 #EXTINF:-1 group-title="-",History Channel HD
 http://tecnotv.club/dw11/phpcode/ssiptv.php?c=a0gk&token=tecnotokenplustv230516F&f=.m3u8
+
 #EXTINF:-1 group-title="-",SONY HD
 http://tecnotv.club/dw11/phpcode/ssiptv.php?c=a0hp&token=tecnotokenplustv230516F&f=.m3u8
+
 #EXTINF:-1 group-title="-",SONY MOVIES HD
 http://tecnotv.club/dw11/phpcode/ssiptv.php?c=a03s&token=tecnotokenplustv230516F&f=.m3u8
+
 #EXTINF:-1 group-title="-",STAR CHANNEL HD
 http://tecnotv.club/dw11/phpcode/ssiptv.php?c=a0hn&token=tecnotokenplustv230516F&f=.m3u8
+
 #EXTINF:-1 group-title="-",STAR LIFE
 http://tecnotv.club/dw11/phpcode/ssiptv.php?c=a0g4&token=tecnotokenplustv230516F&f=.m3u8
+
 #EXTINF:-1 group-title="-",Sun Channel
 http://tecnotv.club/dw11/phpcode/ssiptv.php?c=a050&token=tecnotokenplustv230516F&f=.m3u8
+
 #EXTINF:-1 group-title="-",TNT HD
 http://tecnotv.club/dw11/phpcode/ssiptv.php?c=a0hu&token=tecnotokenplustv230516F&f=.m3u8
+
 #EXTINF:-1 group-title="-",TNT Novelas
 http://tecnotv.club/dw11/phpcode/ssiptv.php?c=a0g9&token=tecnotokenplustv230516F&f=.m3u8
+
 #EXTINF:-1 group-title="-",TNT Series HD
 http://tecnotv.club/dw11/phpcode/ssiptv.php?c=a0km&token=tecnotokenplustv230516F&f=.m3u8
+
 #EXTINF:-1 group-title="-",UNIVERSAL CINEMA HD
 http://tecnotv.club/dw11/phpcode/ssiptv.php?c=a0kt&token=tecnotokenplustv230516F&f=.m3u8
+
 #EXTINF:-1 group-title="-",COMEDIA UNIVERSAL HD
 http://tecnotv.club/dw11/phpcode/ssiptv.php?c=a0i5&token=tecnotokenplustv230516F&f=.m3u8
+
 #EXTINF:-1 group-title="-",UNIVERSAL CRIME HD
 http://tecnotv.club/dw11/phpcode/ssiptv.php?c=a0i4&token=tecnotokenplustv230516F&f=.m3u8
+
 #EXTINF:-1 group-title="-",ESTRENO UNIVERSAL HD
 http://tecnotv.club/dw11/phpcode/ssiptv.php?c=a0i1&token=tecnotokenplustv230516F&f=.m3u8
+
 #EXTINF:-1 group-title="-",ESTRENO UNIVERSAL EN HD
 http://tecnotv.club/dw11/phpcode/ssiptv.php?c=a0i2&token=tecnotokenplustv230516F&f=.m3u8
+
 #EXTINF:-1 group-title="-",UNIVERSAL REALITY HD
 http://tecnotv.club/dw11/phpcode/ssiptv.php?c=a0i3&token=tecnotokenplustv230516F&f=.m3u8
+
 #EXTINF:-1 group-title="-",A&E HD
 http://tecnotv.club/dw11/phpcode/ssiptv.php?c=a0gt&token=tecnotokenplustv230516F&f=.m3u8
+
 #EXTINF:-1 group-title="-",AMC HD
 http://tecnotv.club/dw11/phpcode/ssiptv.php?c=a0gu&token=tecnotokenplustv230516F&f=.m3u8
+
 #EXTINF:-1 group-title="-",AXN HD
 http://tecnotv.club/dw11/phpcode/ssiptv.php?c=a0iy&token=tecnotokenplustv230516F&f=.m3u8
+
 #EXTINF:-1 group-title="-",Animal Planet HD
 http://tecnotv.club/dw11/phpcode/ssiptv.php?c=a0gq&token=tecnotokenplustv230516F&f=.m3u8
+
 #EXTINF:-1 group-title="-",CINECANAL HD
 http://tecnotv.club/dw11/phpcode/ssiptv.php?c=a0hq&token=tecnotokenplustv230516F&f=.m3u8
+
 #EXTINF:-1 group-title="-",CNN Español
 http://tecnotv.club/dw11/phpcode/ssiptv.php?c=a0gi&token=tecnotokenplustv230516F&f=.m3u8
+
 #EXTINF:-1 grupo-título="-",Canal Claro
 http://tecnotv.club/dw11/phpcode/ssiptv.php?c=a0fv&token=tecnotokenplustv230516F&f=.m3u8
+
 #EXTINF:-1 group-title="-",Cine Latino
 http://tecnotv.club/dw11/phpcode/ssiptv.php?c=a0ik&token=tecnotokenplustv230516F&f=.m3u8
+
 #EXTINF:-1 group-title="-",CineMax
 http://tecnotv.club/dw11/phpcode/ssiptv.php?c=a0il&token=tecnotokenplustv230516F&f=.m3u8
+
 #EXTINF:-1 group-title="-",DHE HD
 http://tecnotv.club/dw11/phpcode/ssiptv.php?c=a0gy&token=tecnotokenplustv230516F&f=.m3u8
+
 #EXTINF:-1 group-title="-",E! Entertainment HD
 http://tecnotv.club/dw11/phpcode/ssiptv.php?c=a0gr&token=tecnotokenplustv230516F&f=.m3u8
+
 #EXTINF:-1 group-title="-",Film & arts HD
 http://tecnotv.club/dw11/phpcode/ssiptv.php?c=a0gs&token=tecnotokenplustv230516F&f=.m3u8
+
 #EXTINF:-1 group-title="-",Golden
 http://tecnotv.club/dw11/phpcode/ssiptv.php?c=a0jv&token=tecnotokenplustv230516F&f=.m3u8
+
 #EXTINF:-1 group-title="-",HOLA! TV HD
 http://tecnotv.club/dw11/phpcode/ssiptv.php?c=a0hx&token=tecnotokenplustv230516F&f=.m3u8
+
 #EXTINF:-1 group-title="-",Home & Health HD
 http://tecnotv.club/dw11/phpcode/ssiptv.php?c=a0hw&token=tecnotokenplustv230516F&f=.m3u8
+
 #EXTINF:-1 group-title="-",TIEMPO DE POR VIDA
 http://tecnotv.club/dw11/phpcode/ssiptv.php?c=a0gb&token=tecnotokenplustv230516F&f=.m3u8
+
 #EXTINF:-1 group-title="-",Multipremier
 http://tecnotv.club/dw11/phpcode/ssiptv.php?c=a0ij&token=tecnotokenplustv230516F&f=.m3u8
+
 #EXTINF:-1 group-title="-",Nat Geo HD
 http://tecnotv.club/dw11/phpcode/ssiptv.php?c=a0kk&token=tecnotokenplustv230516F&f=.m3u8
+
 #EXTINF:-1 group-title="-",SPACE HD
 http://tecnotv.club/dw11/phpcode/ssiptv.php?c=a0iz&token=tecnotokenplustv230516F&f=.m3u8
+
 #EXTINF:-1 group-title="-",Star TVE HD
 http://tecnotv.club/dw11/phpcode/ssiptv.php?c=a0h0&token=tecnotokenplustv230516F&f=.m3u8
+
 #EXTINF:-1 group-title="-",TCM
 http://tecnotv.club/dw11/phpcode/ssiptv.php?c=a0jw&token=tecnotokenplustv230516F&f=.m3u8
+
 #EXTINF:-1 group-title="-",TLC
 http://tecnotv.club/dw11/phpcode/ssiptv.php?c=a0hh&token=tecnotokenplustv230516F&f=.m3u8
+
 #EXTINF:-1 group-title="-",TVE
 http://tecnotv.club/dw11/phpcode/ssiptv.php?c=a04y&token=tecnotokenplustv230516F&f=.m3u8
+
 #EXTINF:-1 group-title="-",Universal
 http://tecnotv.club/dw11/phpcode/ssiptv.php?c=a0ih&token=tecnotokenplustv230516F&f=.m3u8
+
 #EXTINF:-1 group-title="-",WARNER HD
 http://tecnotv.club/dw11/phpcode/ssiptv.php?c=a0ho&token=tecnotokenplustv230516F&f=.m3u8
+
+# Cinema
+
+#EXTINF:-1 group-title="CINEMA" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/14380b6fcd3d8d72b9a4003e0afd05be.webp",TELEMUNDO ACCION
+https://xumo-drct-ch835-ekq0p.fast.nbcuni.com/live/master.m3u8
+
+#EXTINF:-1 group-title="CINEMA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQClt_U8epAX-uHmgsYlhRehkcJK0B2iMIk-Q&s",SONI CINE
+https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
+
+#EXTINF:-1 group-title="CINEMA" tvg-logo="https://creations.panzoid.com/creation-thumbnails/97670.jpg", HBO XTREME
+http://200.229.147.142:8000/play/a00t/index.m3u8
+ 
+#EXTINF:-1 group-title="CINEMA" tvg-logo="https://creations.panzoid.com/creation-thumbnails/97670.jpg", HBO2 HD
+http://200.229.147.142:8000/play/a00r/index.m3u8
+ 
+#EXTINF:-1 group-title="CINEMA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRxzhicMoo-B5zo4hi-8kTGAs68v3a-KRj7g&s", WARNER HD
+http://200.229.147.142:8000/play/a03e/index.m3u8
+ 
+#EXTINF:-1 group-title="CINEMA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShSOhbv5hYY9kCbS2Epl4ZA1WsJqjwg6Voew&s",AXN HD
+http://200.229.147.142:8000/play/a027/index.m3u8
+ 
+#EXTINF:-1 group-title="CINEMA" tvg-logo="https://pbs.twimg.com/profile_images/702722678877126656/1EWWFB3-_400x400.jpg", Golden Premiere HD
+http://200.229.147.142:8000/play/a00g/index.m3u8
+
+#EXTINF:-1 group-title="CINEMA" tvg-logo="https://gritaradio.com/wp-content/uploads/2024/09/02caf636d493c514726744a06be779c2.png",SONY HD 
+http://200.229.147.142:8000/play/a022/index.m3u8
+ 
+#EXTINF:-1 group-title="CINEMA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZURCHQTVCSkNqIY2MNKezeHsw__93b4yD1g&s",SPACE HD
+http://200.229.147.142:8000/play/a04p/index.m3u8
+ 
+#EXTINF:-1 group-title="CINEMA" tvg-logo="https://sire-media-star.techops.disn.io/fox_es/custompage-main/680860.1024x576.jpg",STAR CHANNEL
+http://200.229.147.142:8000/play/a03d/index.m3u8
+ 
+#EXTINF:-1 group-title="CINEMA" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwgr_J316Qqh00qfH4p7THzL7u8F2veoFokqfZlv5_Oy2GGknfCNHdkc6CZyeLmlow64LrmL2ZuvGNEd5ZKuHtC9hXSpJVqyokDAPrCchMJg1fm2g7XP4mtlNjPy-rXP1I8sST1dupLM0/s1600/uni4.jpg",Universal
+http://200.229.147.142:8000/play/a01t/index.m3u8
+
+#EXTINF:-1 group-title="CINEMA" tvg-logo="https://creations.panzoid.com/creation-thumbnails/97670.jpg", HBO Family HD
+http://200.229.147.142:8000/play/a06q/index.m3u8
+
+#EXTINF:-1 group-title="CINEMA" tvg-logo="https://creations.panzoid.com/creation-thumbnails/97670.jpg", HBO HD
+http://200.229.147.142:8000/play/a00q/index.m3u8
+  
+#EXTINF:-1 group-title="CINEMA" tvg-logo="https://creations.panzoid.com/creation-thumbnails/97670.jpg", HBO Plus HD
+http://200.229.147.142:8000/play/a00s/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/X1aVw04.png" group-title="CINE Y SERIES",BOX CINEMA
+http://tecnotv.club/dw11/phpcode/distro.php?c=box-cinema
+
+
+
+# Mundo
+
+#EXTINF:-1 group-title="MUNDO" tvg-logo="https://play-lh.googleusercontent.com/zF8urZrMb8DwBf6Y0JZZnk6lpr-0cONuaBm4Apc8LH9UKmx-vhfatrTlnZEn3ewVPyxg", Telemundo 2
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master.m3u8
+
+#EXTINF:-1 group-title="MUNDO" tvg-logo="https://yt3.googleusercontent.com/TOHGshxAMW2Meq-N9EWB3T71en-ziaWoiFYWcjrhxQpOW4Wog3HwrAjDZIeCvj1q9VLPt_YsCA=s900-c-k-c0x00ffffff-no-rj", DW Español  DE
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 group-title="MUNDO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/Russia-today-logo.svg", RT Español  RU
+https://rt-esp.rttv.com/live/rtesp/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 group-title="MUNDO" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/466deabbd42d619f75a9134701c3e39b.webp",RETRO PLUS TV
+https://scl.edge.grupoz.cl/retroplustvuno/live/chunklist_w1872059197.m3u8
+
+#EXTINF:-1 group-title="MUNDO" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/0051dffef6555ae2d69b59e63b301b3b.webp",AMO MI PLANETA
+https://amg01821-lovetvchannels-lovetheplanetsp-tivify-tivify-vycsr.amagi.tv/1080p/index.m3u8
+
+#EXTINF:-1 group-title="MUNDO" tvg-logo="https://ui.cgtn.com/static/ng/resource/images/logo_title.png",CGTN ES HD 
+https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
+ 
+#EXTINF:-1 group-title="MUNDO" tvg-logo="http://186.0.248.95:20202/images/CNNesp_285.png",CNN ESPAÑOL
+http://152.231.29.139:8000/play/a0bb/index.m3u8
+ 
+#EXTINF:-1 group-title="MUNDO" tvg-logo="https://yt3.googleusercontent.com/R9LgskhvwzY6ukALWnH983PEy_fRpDN__rtAzZPKxV3XbXeG7JSXGRz0iwmYjCT6_ZxSKxlIpg=s900-c-k-c0x00ffffff-no-rj",DISCOVERY HYH
+http://152.231.29.139:8000/play/a0ds/index.m3u8
+ 
+#EXTINF:-1 group-title="MUNDO" tvg-logo="https://image.roku.com/blog/wp-content/uploads/2023/08/Screenshot-2023-08-04-at-11.04.47-AM.png",ADN 40
+https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8?PlaylistM3UCL
+
+# Deportes
+
+#EXTINF:-1 tvg-logo="logo.png" group-title="DEPORTES",ESPN
+https://tecnotv.club/dw11/phpcode/deportesla14hd.php?stream=espn&token=tecnotokenplustv230516F
+
+#EXTINF:-1 tvg-logo="logo.png" group-title="DEPORTES",espn 2
+https://tecnotv.club/dw11/phpcode/deportesla14hd.php?stream=espn2&token=tecnotokenplustv230516F
+
+#EXTINF:-1 tvg-logo="logo.png" group-title="DEPORTES",ESPN 3
+https://tecnotv.club/dw11/phpcode/deportesla14hd.php?stream=espn3&token=tecnotokenplustv230516F
+
+#EXTINF:-1 tvg-logo="logo.png" group-title="DEPORTES",ESPN 4
+https://tecnotv.club/dw11/phpcode/deportesla14hd.php?stream=espn4&token=tecnotokenplustv230516F
+
+#EXTINF:-1 tvg-logo="logo.png" group-title="DEPORTES",ESPN 5
+https://tecnotv.club/dw11/phpcode/deportesla14hd.php?stream=espn5&token=tecnotokenplustv230516F
+
+#EXTINF:-1 tvg-logo="logo.png" group-title="DEPORTES",ESPN 6
+https://tecnotv.club/dw11/phpcode/deportesla14hd.php?stream=espn6&token=tecnotokenplustv230516F
+
+#EXTINF:-1 tvg-logo="logo.png" group-title="DEPORTES",DS SPORT PLUS
+https://tecnotv.club/dw11/phpcode/deportesla14hd.php?stream=dsportsplus&token=tecnotokenplustv230516F
+
+#EXTINF:-1 tvg-logo="logo.png" group-title="DEPORTES AR",Fox Sports
+https://tecnotv.club/dw11/phpcode/deportesla14hd.php?stream=foxsports&token=tecnotokenplustv230516F
+
+#EXTINF:-1 tvg-logo="logo.png" group-title="DEPORTES AR",Fox Sports 2
+https://tecnotv.club/dw11/phpcode/deportesla14hd.php?stream=foxsports2&token=tecnotokenplustv230516F
+
+#EXTINF:-1 tvg-logo="logo.png" group-title="DEPORTES AR",Fox Sports 3
+https://tecnotv.club/dw11/phpcode/deportesla14hd.php?stream=foxsports3&token=tecnotokenplustv230516F
+
+#EXTINF:-1 tvg-logo="logo.png" group-title="DEPORTES AR ",TNT Sports
+https://tecnotv.club/dw11/phpcode/deportesla14hd.php?stream=tntsports&token=tecnotokenplustv230516F
+
+#EXTINF:-1 tvg-logo="logo.png" group-title="DEPORTES AR",ESPN Premium
+https://tecnotv.club/dw11/phpcode/deportesla14hd.php?stream=espnpremium&token=tecnotokenplustv230516F
+
+#EXTINF:-1 tvg-logo="logo.png" group-title="DEPORTES AR",TyC Sports
+https://tecnotv.club/dw11/phpcode/deportesla14hd.php?stream=tycsports&token=tecnotokenplustv230516F
+
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://static.vecteezy.com/system/resources/previews/010/994/369/non_2x/la-liga-logo-symbol-design-spain-football-european-countries-football-teams-illustration-free-vector.jpg", Liga
+http://190.92.10.66:4000/play/a001/index.m3u8
+
+
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="http://186.0.248.95:20202/images/RedBull_285.png", RED BULL
+http://186.0.248.95:20202/Live/615a33d58bafb34ca48b8671431b777e/RedBull_540.m3u8
+
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSg8aLL3PfRrnaj0tPg7m12LfnMuUTxw3ewJA&s",BUNDESLIGA
+http://200.229.147.142:8000/play/a05b/index.m3u8
+
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://iili.io/J1kV1Bn.png", ITV DEPORTES
+https://thm-it-roku.otteravision.com/thm/it/it.m3u8
+
+#EXTINF:-1 tvg-name="ESPN" group-title="Noticias Argentina",ESPN2
+https://service-pkgespn.akamaized.net/opp/cmaf/espn/fastclipper/2026/0531/evc__20260531_no_event_name_0548d159_3ca9_4f8e_9ff7_c3e07c41a70d_22063/evc__20260531_no_event_name_0548d159_3ca9_4f8e_9ff7_c3e07c41a70d_22063/index-f1-a1.m3u8
+
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://image.winudf.com/v2/image1/Y29tLnlvdXJhcHBsYW5kLnRkdHZfaWNvbl8xNTgxNjQxNzcxXzA4MA/icon.png?w=280&fakeurl=1", TDTV COSTARICA
+https://cloudvideo.servers10.com:8081/8230/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://play-lh.googleusercontent.com/u3dr5j-qEzhCx0ec7sQIcM93NHYyssR5wtYCrcWqujyVTtRloVXKDWclDCAHrqNjVY_v=w240-h480-rw", TDC TV
+https://tdcserver.com:19360/tdconlione-2/tdconlione-2.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://cdn.mos.cms.futurecdn.net/Tdvb4DPB6XfaMgAdxV4aZB.png", FIFA plus
+https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
+
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://play-lh.googleusercontent.com/Zt7pigoU67Zun6NMuXzKLSGdk-UHHfBlk59ck4TfMChUlqvrgJnZ23cbXQhDYd1Vww", ITV Deportes
+https://thm-it-roku.otteravision.com/thm/it/it.m3u8
+ 
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqB1HUSWvWb0aMA3gseRB4-GZpXzQJ7OOaTg&s", 2DA DIVICION
+https://jmp2.uk/stvp-ESBD3600001Q1
+
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/2ecbfa8a3f25cc1212dbcd975383b55a.webp",AZTECA DEPORTES
+https://azt-mun.otteravision.com/azt/mun/mun_1080p.m3u8
+
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4F5PEuGE-A01Fg-8-AtkUXmalU0BeZsuLkw&s",BARCELONA TV
+https://amg17560-fcb-amg17560c2-rakuten-es-4889.playouts.now.amagi.tv/playlist/amg17560-fcbarcelona-topbarcaspanish-rakutenes/playlist.m3u8
+
+# Anime 
+
+#EXTINF:-1 tvg-logo="https://imgur.com/ADPkway.png" group-title="ENTRETENIMIENTO",EnerGeek Retro
+https://cdn.energeek.cl/hls/energeekretro.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/Q9Sg7FJ.png" group-title="ENTRETENIMIENTO",EnerGeek Fan
+https://cdn.energeek.cl/hls/energeekfan.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/BT1f1ER.png" group-title="ENTRETENIMIENTO",PrideTV Latam
+https://cdn.energeek.cl/hls/pridetvlatam.m3u8
+
+#EXTINF:-1 group-title="-",Cartoon Network
+http://tecnotv.club/dw11/phpcode/ssiptv.php?c=a029&token=tecnotokenplustv230516F&f=.m3u8
+
+#EXTINF:-1 group-title="-",Cartoon Network
+http://tecnotv.club/dw11/phpcode/ssiptv.php?c=a029&token=tecnotokenplustv230516F&f=.m3u8
+
+#EXTINF:-1 group-title="-",Boomerang
+http://tecnotv.club/dw11/phpcode/ssiptv.php?c=a0g0&token=tecnotokenplustv230516F&f=.m3u8
+
+#EXTINF:-1 group-title="-",CARTOON NT HD
+http://tecnotv.club/dw11/phpcode/ssiptv.php?c=a0l0&token=tecnotokenplustv230516F&f=.m3u8
+
+#EXTINF:-1 group-title="-",Discovery Kids
+http://tecnotv.club/dw11/phpcode/ssiptv.php?c=a03l&token=tecnotokenplustv230516F&f=.m3u8
+
+#EXTINF:-1 group-title="-",Disney JR
+http://tecnotv.club/dw11/phpcode/ssiptv.php?c=a0g1&token=tecnotokenplustv230516F&f=.m3u8
+
+#EXTINF:-1 group-title="-",Disney channel
+http://tecnotv.club/dw11/phpcode/ssiptv.php?c=a0i8&token=tecnotokenplustv230516F&f=.m3u8
+
+
+# Musica
+
+#EXTINF:-1 tvg-logo="https://imgur.com/oN5jnse.png" group-title="MUSICA",ROCKOLA TV
+http://tecnotv.club/dw11/phpcode/distro.php?c=rockola-television
+
+
+
+# 24/7
+
+#EXTINF:-1 tvg-id="0932" tvg-name="Los Simpsons 24/7 (PROXIMO OTRO CANAL)" group-title="Remodelación", tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/The_Simpsons_yellow_logo.svg/1920px-The_Simpsons_yellow_logo.svg.png", Los Simpsons 
+http://45.225.40.206:12080/Live/76b678bf3a8a411cb7b2f415a567034d/online-24-7_480.m3u8
+
+#EXTINF:-1 group-title="24/7" tvg-logo="https://play-lh.googleusercontent.com/L7EqfJwpBmEv6S9JApTXuWYAjiUxfRO_sywuvo-lDg-1M3wSceY9Go0gpwpdsVrFZXPR",ANIME VISION
+https://jmp2.uk/stvp-ES300029LP
+
+#EXTINF:-1 group-title="24/7" tvg-logo="https://motorvision.tv/wp-content/uploads/2023/09/MV_Plus_Logo_1920x1080.png",MOTORVISION
+https://jmp2.uk/stvp-ESBD3200001EG
+
+#EXTINF:-1 group-title="24/7" tvg-logo="hhttps://gravity.fitness/cdn/shop/articles/DBD_Ep1_-_Dragon_Team__28recap_29.webp?v=1747140746&width=2048",DRAGON BALL Z 
+https://live20.bozztv.com/giatv/giatv-dball/dball/chunks.m3u8
+
+
+
+
