@@ -1,4 +1,5 @@
 # EXTM3U
+
 # EXTINF : -1  tvg-id = " 13MaxTelevision.ar "  tvg-logo = " https://i.imgur.com/QvF4l2t.png "  group-title = " General " , 13Max Television
 http://coninfo.net:1935/13maxhd/live13maxtvnuevo/playlist.m3u8
 # EXTINF : -1  tvg-id = " 247CanaldeNoticias.ar "  tvg-logo = " https://i.imgur.com/4hDCB1M.png "  group-title = " Noticias " , 24/7 Canal de Noticias
