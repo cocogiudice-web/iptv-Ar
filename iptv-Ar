@@ -185,35 +185,6 @@ https://mdstrm.com/live-stream-playlist/68b74fd1d6512526f1f7c75a.m3u8
 #EXTINF:-1 group-title="Radio",Radio Nacional
 https://sa.mp3.icecast.magma.edge-access.net/sc_rad39
 
-#PLAYLIST:Popular Music Videos
-
-#EXTINF:235 tvg-logo="https://i.ytimg.com/vi/fOT0BUpITw8/mqdefault.jpg",BELLAKEO (Video Oficial) - Peso Pluma, Anitta
-https://youtu.be/fOT0BUpITw8
-
-#EXTINF:650 tvg-logo="https://i.ytimg.com/vi/NFvDHYMzj9U/mqdefault.jpg",Arcángel - FN8 ( Video Lyric )
-https://youtu.be/NFvDHYMzj9U
-
-#EXTINF:235 tvg-logo="https://i.ytimg.com/vi/8c7KOGxeY3w/mqdefault.jpg",Becky G - POR EL CONTRARIO (Performance Video) ft. Ángela Aguilar, Leonardo Aguilar
-https://youtu.be/8c7KOGxeY3w
-
-#EXTINF:212 tvg-logo="https://i.ytimg.com/vi/jWdxXdp8sZI/mqdefault.jpg",Real Boston Richey - The Type (Official Music Video) ft. YTB Fatt
-https://youtu.be/jWdxXdp8sZI
-
-#EXTINF:173 tvg-logo="https://i.ytimg.com/vi/s6cdjJvGM2o/mqdefault.jpg",La Diabla
-https://youtu.be/s6cdjJvGM2o
-
-#EXTINF:293 tvg-logo="https://i.ytimg.com/vi/w1-jss2mZlY/mqdefault.jpg",Drake - You Broke My Heart
-https://youtu.be/w1-jss2mZlY
-
-#EXTINF:189 tvg-logo="https://i.ytimg.com/vi/885j2xO9VB8/mqdefault.jpg",Finesse2Tymes - Crazy [Official Music Video]
-https://youtu.be/885j2xO9VB8
-
-#EXTINF:162 tvg-logo="https://i.ytimg.com/vi/muzQ0r14L2Y/mqdefault.jpg",NLE Choppa - Shotta Flow 7 “FINAL” (Official Music Video)
-https://youtu.be/muzQ0r14L2Y
-
-#EXTINF:600 tvg-logo="https://i.ytimg.com/vi/p9JAt53TSWE/mqdefault.jpg",Anuel AA - Arcangel Es Chota (Audio)
-https://youtu.be/p9JAt53TSWE
-
 #EXTINF:181 tvg-logo="https://i.ytimg.com/vi/nW9tEGI2e-k/mqdefault.jpg",Everybody
 https://youtu.be/nW9tEGI2e-k
 
